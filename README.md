@@ -1,6 +1,6 @@
 # Awesome-Local-Feature
 
-Collect some local feature related papers. 
+A curated list of resources for awesome local feature related works. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
