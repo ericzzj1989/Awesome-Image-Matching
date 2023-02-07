@@ -13,12 +13,14 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Table of contents
 - [Benchmark Datasets](#benchmark-datasets)
 - [Detector Learning](detector-learning)
+- [Joint Detector & Descriptor Learning](joint-detector-descriptor-learning)
 
 ## Benchmark Datasets
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2017|CVPR|[Comparative Evaluation of Hand-Crafted and Learned Local Features](https://demuc.de/papers/schoenberger2017comparative.pdf)|[Code](https://github.com/ahojnnes/local-feature-evaluation)|
 |2017|CVPR|[HPatches: A benchmark and evaluation of handcrafted and learned local descriptors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.pdf)|[Code & Project page](https://hpatches.github.io/)|
+
 
 ## Detector Learning
 |Year|Pub|Paper|Repo|
@@ -27,3 +29,15 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2017|CVPR|[Quad-networks: unsupervised learning to rank for interest point detection](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/quad_cvpr17.pdf)||
 |2017|CVPR|[Learning Discriminative and Transformation Covariant Local Feature Detectors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf)|[Code](https://github.com/ColumbiaDVMM/Transform_Covariant_Detector)|
 |2018||[Learning to Detect Features in Texture Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_to_Detect_CVPR_2018_paper.pdf)|[Code](https://github.com/lg-zhang/pytorch-keypoint-release)|
+
+
+## Descriptor Learning
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+
+
+## Joint Detector & Descriptor Learning
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
+|2020|ICLR|[Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://openreview.net/pdf?id=Skx82ySYPH)|[Code](https://github.com/TRI-ML/KP2D)|
