@@ -12,6 +12,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 
 ## Table of contents
 - [Benchmark Datasets](#benchmark-datasets)
+- [Detector Learning](detector-learning)
 
 ## Benchmark Datasets
 |Year|Pub|Paper|Repo|
