@@ -5,8 +5,6 @@ Collect some local feature related papers.
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
 <p align="center">
-  <h3 align="center">Image and Video Deblurring</h3>
-  <p align="center">A curated list of resources for Image and Video Deblurring
     <br />
     <br />
     <br />
