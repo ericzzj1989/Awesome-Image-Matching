@@ -28,7 +28,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2015|CVPR|[TILDE: A Temporally Invariant Learned DEtector](https://openaccess.thecvf.com/content_cvpr_2015/papers/Verdie_TILDE_A_Temporally_2015_CVPR_paper.pdf)|[Code](https://github.com/vcg-uvic/TILDE)|
 |2017|CVPR|[Quad-networks: unsupervised learning to rank for interest point detection](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/quad_cvpr17.pdf)||
 |2017|CVPR|[Learning Discriminative and Transformation Covariant Local Feature Detectors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Discriminative_and_CVPR_2017_paper.pdf)|[Code](https://github.com/ColumbiaDVMM/Transform_Covariant_Detector)|
-|2018||[Learning to Detect Features in Texture Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_to_Detect_CVPR_2018_paper.pdf)|[Code](https://github.com/lg-zhang/pytorch-keypoint-release)|
+|2018|CVPR|[Learning to Detect Features in Texture Images](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Learning_to_Detect_CVPR_2018_paper.pdf)|[Code](https://github.com/lg-zhang/pytorch-keypoint-release)|
+|2019|ICCV|[Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](http://refbase.cvc.uab.es/files/BRP2019.pdf)|[Code](https://github.com/axelBarroso/Key.Net)|
+|2019|ICCV|[ELF: Embedded Localisation of Features in Pre-Trained CNN](https://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Code](https://github.com/abenbihi/elf)|
+|2020|ACCV|[D2D: Keypoint Extraction with Describe to Detect Approach](https://openaccess.thecvf.com/content/ACCV2020/papers/Tian_D2D_Keypoint_Extraction_with_Describe_to_Detect_Approach_ACCV_2020_paper.pdf)||
+|2021|WACV|[Learning of low-level feature keypoints for accurate and robust detection](https://openaccess.thecvf.com/content/WACV2021/papers/Suwanwimolkul_Learning_of_Low-Level_Feature_Keypoints_for_Accurate_and_Robust_Detection_WACV_2021_paper.pdf)||
 
 
 ## Descriptor Learning
