@@ -17,6 +17,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - [Detector Learning](#detector-learning)
 - [Descriptor Learning](#descriptor-learning)
 - [Joint Detector & Descriptor Learning](#joint-detector-descriptor-learning)
+- [Others](#other)
 
 
 ## Survey
@@ -64,3 +65,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |:---:|:---:|:---:|:---:|
 |2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
 |2020|ICLR|[Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://openreview.net/pdf?id=Skx82ySYPH)|[Code](https://github.com/TRI-ML/KP2D)|
+
+## Others
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2016|[Learning to Assign Orientations to Feature Points](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf)||
