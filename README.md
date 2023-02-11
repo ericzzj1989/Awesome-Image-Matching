@@ -69,4 +69,4 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Others
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
-|2016|[Learning to Assign Orientations to Feature Points](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf)||
+|2016|CVPR|[Learning to Assign Orientations to Feature Points](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf)||
