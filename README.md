@@ -17,7 +17,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - [Detector Learning](#detector-learning)
 - [Descriptor Learning](#descriptor-learning)
 - [Joint Detector & Descriptor Learning](#joint-detector-descriptor-learning)
-- [Others](#other)
+- [Others](#others)
 
 
 ## Survey
