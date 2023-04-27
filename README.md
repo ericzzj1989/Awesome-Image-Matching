@@ -75,6 +75,12 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2020|ACCV|[D2D: Keypoint Extraction with Describe to Detect Approach](https://openaccess.thecvf.com/content/ACCV2020/papers/Tian_D2D_Keypoint_Extraction_with_Describe_to_Detect_Approach_ACCV_2020_paper.pdf)||
 |2020|arXiv|[SEKD: Self-Evolving Keypoint Detection and Description](https://arxiv.org/pdf/2006.05077.pdf)||
 |2020|CVPR|[Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhowmik_Reinforced_Feature_Points_Optimizing_Feature_Detection_and_Description_for_a_CVPR_2020_paper.pdf)|[Code](https://github.com/aritra0593/Reinforced-Feature-Points)|
+|2020|NIPS|[DISK: Learning local features with policy gradient](https://proceedings.neurips.cc//paper/2020/file/a42a596fc71e17828440030074d15e74-Paper.pdf)|[Code](https://github.com/cvlab-epfl/disk)|
+|2021|IROS|[RaP-Net: A Region-wise and Point-wise Weighting Network to Extract Robust Features for Indoor Localization](https://arxiv.org/pdf/2012.00234.pdf)|[Code](https://github.com/ivipsourcecode/RaP-Net)|
+|2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation]()|[Project page](https://bmvc2022.mpi-inf.mpg.de/552/)|
+|2022|ECCV|[Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)|[Code](https://github.com/ruc-aimc-lab/SuperRetina)|
+|Year|Pub|[TUSK: Task-Agnostic Unsupervised Keypoints](https://arxiv.org/pdf/2206.08460.pdf)||
+|Year|Pub|Paper|Repo|
 |2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
 |2020|ICLR|[Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://openreview.net/pdf?id=Skx82ySYPH)|[Code](https://github.com/TRI-ML/KP2D)|
 
