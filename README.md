@@ -1,6 +1,6 @@
-# Awesome-Local-Feature
+# Awesome-Image-Matching
 
-A curated list of resources for awesome local feature related works. 
+A curated list of resources for awesome imag matching related works. 
 
 If you find some overlooked papers, please open issues or pull requests (recommended).
 
