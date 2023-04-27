@@ -70,6 +70,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2018|CVPRW|[SuperPoint: Self-Supervised Interest Point Detection and Description](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)|[Code](https://github.com/magicleap/SuperPointPretrainedNetwork)|
 |2018|NIPS|[LF-Net: Learning Local Features from Images](https://proceedings.neurips.cc/paper_files/paper/2018/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)|[Code](https://github.com/vcg-uvic/lf-net-release)|
 |2019|arXiv|[UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/pdf/1907.04011.pdf)||
+|2019|CVPR|[D2-Net: A Trainable CNN for Joint Detection and Description of Local Features](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)|[Project page](https://github.com/mihaidusmanu/d2-net)|
+|2019|NIPS|[R2D2: Repeatable and Reliable Detector and Descriptor](https://proceedings.neurips.cc/paper_files/paper/2019/file/3198dfd0aef271d22f7bcddd6f12f5cb-Paper.pdf)|[Code](https://github.com/naver/r2d2)|
+|2020|ACCV|[D2D: Keypoint Extraction with Describe to Detect Approach](https://openaccess.thecvf.com/content/ACCV2020/papers/Tian_D2D_Keypoint_Extraction_with_Describe_to_Detect_Approach_ACCV_2020_paper.pdf)||
+|2020|arXiv|[SEKD: Self-Evolving Keypoint Detection and Description](https://arxiv.org/pdf/2006.05077.pdf)||
+|2020|CVPR|[Reinforced Feature Points: Optimizing Feature Detection and Description for a High-Level Task](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bhowmik_Reinforced_Feature_Points_Optimizing_Feature_Detection_and_Description_for_a_CVPR_2020_paper.pdf)|[Code](https://github.com/aritra0593/Reinforced-Feature-Points)|
 |2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
 |2020|ICLR|[Neural Outlier Rejection for Self-Supervised Keypoint Learning](https://openreview.net/pdf?id=Skx82ySYPH)|[Code](https://github.com/TRI-ML/KP2D)|
 
