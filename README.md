@@ -28,8 +28,16 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Benchmark
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2005|TPAMI|[A Performance Evaluation of Local Descriptors](https://www.robots.ox.ac.uk/~vgg/research/affine/det_eval_files/mikolajczyk_pami2004.pdf)||
+|2007|IJCV|[Automatic Panoramic Image Stitching using Invariant Features](http://matthewalunbrown.com/papers/ijcv2007.pdf)||
+|2008|CVPR|[On Benchmarking Camera Calibration and Multi-View Stereo for High Resolution Imagery](https://homes.esat.kuleuven.be/~konijn/publications/2008/CS_cvpr_2008.pdf)||
+|2011|ICCV|[Edge Foci Interest Points](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126263)||
+|2011|IJCV|[Interesting Interest Points](https://roboimagedata2.compute.dtu.dk/data/text/IJCV_2011.pdf)||
 |2017|CVPR|[Comparative Evaluation of Hand-Crafted and Learned Local Features](https://demuc.de/papers/schoenberger2017comparative.pdf)|[Code](https://github.com/ahojnnes/local-feature-evaluation)|
 |2017|CVPR|[HPatches: A benchmark and evaluation of handcrafted and learned local descriptors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.pdf)|[Code & Project page](https://hpatches.github.io/)|
+|2018|BMVC|[Large scale evaluation of local image feature detectors on homography datasets](http://www.bmva.org/bmvc/2018/contents/papers/0462.pdf)|[Code](https://github.com/lenck/vlb-deteval)|
+|2018|CVPR|[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.pdf)|[Project page](https://www.cs.cornell.edu/projects/megadepth/)|
+|2019|BMVC|[An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://jwbian.net/Papers/FM_BMVC19.pdf)|[Code](https://github.com/JiawangBian/FM-Bench)|
 |2021|IJCV|[Image Matching across Wide Baselines: From Paper to Practice](https://arxiv.org/pdf/2003.01587.pdf)|[Code](https://github.com/ubc-vision/image-matching-benchmark)|
 |2023|CVPR|[A Large Scale Homography Benchmark](https://arxiv.org/pdf/2302.09997.pdf)|[Code](https://github.com/danini/homography-benchmark)|
 
@@ -58,7 +66,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2014|ArXiv|[Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT](https://lmb.informatik.uni-freiburg.de/Publications/2014/FDB14/1405.5769v1.pdf)||
 |2015|CVPR|[Learning to Compare Image Patches via Convolutional Neural Networks](https://arxiv.org/pdf/1504.03641.pdf)|[Blog](https://blog.csdn.net/m0_61899108/article/details/122609390)|
 |2015|CVPR|[MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Han_MatchNet_Unifying_Feature_2015_CVPR_paper.pdf)|[Blog](https://blog.csdn.net/qq_36104364/article/details/115299866)|
-|2015|CVPR|[Computing the Stereo Matching Cost with a Convolutional Neural Network](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)||
 |2015|ICCV|[Discriminative Learning of Deep Convolutional Feature Point Descriptors](https://openaccess.thecvf.com/content_iccv_2015/papers/Simo-Serra_Discriminative_Learning_of_ICCV_2015_paper.pdf)|[Code](https://github.com/etrulls/deepdesc-release)|
 |2016|BMVC|[Learning local feature descriptors with triplets and shallow convolutional neural networks](http://www.bmva.org/bmvc/2016/papers/paper119/paper119.pdf)|[Code](https://github.com/vbalnt/tfeat)|
 |2016|CoRR|[PN-Net: Conjoined Triple Deep Networks for Learning Local Image Descriptors](https://arxiv.org/pdf/1601.05030.pdf)|[Code](https://github.com/vbalnt/pnnet), [Blog](https://blog.csdn.net/qq_36104364/article/details/115324732)|
@@ -79,6 +86,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2020|ECCV|[Learning Feature Descriptors using Camera Pose Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460732.pdf)|[Project page](https://qianqianwang68.github.io/CAPS/)|
 |2020|ECCV|[Online Invariance Selection for Local Feature Descriptors](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470698.pdf)|[Code](https://github.com/rpautrat/LISRD)|
 |2021|IROS|[RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching](https://arxiv.org/pdf/2103.08573.pdf)|[Project page](https://uditsinghparihar.github.io/RoRD/)|
+|2022|AAAI|[MTLDesc: Looking Wider to Describe Better](https://arxiv.org/pdf/2203.07003.pdf)|[Code](https://github.com/vignywang/MTLDesc)|
 |2023|CVPR|[FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network](https://arxiv.org/pdf/2211.15069.pdf)|[Code](https://github.com/SJTU-ViSYS/FeatureBooster)|
 |2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project page](http://cvlab.postech.ac.kr/research/RELF/)|
 |2023|arXiv|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
