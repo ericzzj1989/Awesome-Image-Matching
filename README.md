@@ -54,7 +54,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |:---:|:---:|:---:|:---:|
 |2012|ECCV|[Descriptor Learning Using Convex Optimisation](https://www.robots.ox.ac.uk/~vgg/publications/2012/Simonyan12/simonyan12.pdf)|[Code](https://github.com/cbalint13/opencv-dlco)|
 |2012|NeurIPS|[Learning Image Descriptors with the Boosting-Trick](https://proceedings.neurips.cc/paper_files/paper/2012/file/0a09c8844ba8f0936c20bd791130d6b6-Paper.pdf)||
-|Year|Pub|Paper|Repo|
 |2014|ArXiv|[Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT](https://lmb.informatik.uni-freiburg.de/Publications/2014/FDB14/1405.5769v1.pdf)||
 |2014|TPAMI|[Learning Local Feature Descriptors Using Convex Optimisation](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/simonyan14learning.pdf)||
 |2015|ICCV|[Discriminative Learning of Deep Convolutional Feature Point Descriptors](https://openaccess.thecvf.com/content_iccv_2015/papers/Simo-Serra_Discriminative_Learning_of_ICCV_2015_paper.pdf)|[Code](https://github.com/etrulls/deepdesc-release)|
