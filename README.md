@@ -65,7 +65,20 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2016|CVPR|[Learning Local Image Descriptors with Deep Siamese and Triplet Convolutional Networks by Minimizing Global Loss Functions](https://openaccess.thecvf.com/content_cvpr_2016/papers/G_Learning_Local_Image_CVPR_2016_paper.pdf)||
 |2016|CVPRW|[Euclidean and Hamming Embedding for Image Patch Description with Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2016_workshops/w24/papers/Liu_Euclidean_and_Hamming_CVPR_2016_paper.pdf)||
 |2016|RAL|[Self-Supervised Visual Descriptor Learning for Dense Correspondence](https://homes.cs.washington.edu/~tws10/3163.pdf)||
-
+|2017|CVPR|[L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf)|[Code](https://github.com/yuruntian/L2-Net)|
+|2017|NeurIPS|[Working hard to know your neighbor's margins: Local descriptor learning loss](https://arxiv.org/pdf/1705.10872.pdf)|[Code](https://github.com/DagnyT/hardnet)|
+|2018|CoRL|[Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization](https://arxiv.org/pdf/1809.01019.pdf)|[Code](https://github.com/ethz-asl/hierarchical_loc)|
+|2018|CVPR|[Learning Deep Descriptors with Scale-Aware Triplet Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Keller_Learning_Deep_Descriptors_CVPR_2018_paper.pdf)|[Code](https://github.com/4uiiurz1/pytorch-scale-aware-triplet)|
+|2018|CVPR|[Local Descriptors Optimized for Average Precision](https://openaccess.thecvf.com/content_cvpr_2018/papers/He_Local_Descriptors_Optimized_CVPR_2018_paper.pdf)||
+|2018|ECCV|[GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf)|[Code](https://github.com/lzx551402/geodesc)|
+|2019|CVPR|[ContextDesc: Local Descriptor Augmentation with Cross-Modality Context](https://openaccess.thecvf.com/content_CVPR_2019/papers/Luo_ContextDesc_Local_Descriptor_Augmentation_With_Cross-Modality_Context_CVPR_2019_paper.pdf)|[Code](https://github.com/lzx551402/contextdesc)|
+|2019|CVPR|[SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tian_SOSNet_Second_Order_Similarity_Regularization_for_Local_Descriptor_Learning_CVPR_2019_paper.pdf)|[Code](https://github.com/scape-research/SOSNet)|
+|2019|CVWW|[Leveraging Outdoor Webcams for Local Descriptor Learning](https://arxiv.org/pdf/1901.09780.pdf)|[Data](https://github.com/pultarmi/AMOS_patches)|
+|2019|ICCV|[Beyond Cartesian Representations for Local Descriptors](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ebel_Beyond_Cartesian_Representations_for_Local_Descriptors_ICCV_2019_paper.pdf)|[Code](https://github.com/cvlab-epfl/log-polar-descriptors)|
+|Year|Pub|Paper|Repo|
+|Year|Pub|Paper|Repo|
+|Year|Pub|Paper|Repo|
+|Year|Pub|Paper|Repo|
 
 
 ## Joint Detector & Descriptor Learning
