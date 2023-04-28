@@ -52,8 +52,12 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Descriptor Learning
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2012|ECCV|[Descriptor Learning Using Convex Optimisation](https://www.robots.ox.ac.uk/~vgg/publications/2012/Simonyan12/simonyan12.pdf)|[Code](https://github.com/cbalint13/opencv-dlco)|
+|2012|NeurIPS|[Learning Image Descriptors with the Boosting-Trick](https://proceedings.neurips.cc/paper_files/paper/2012/file/0a09c8844ba8f0936c20bd791130d6b6-Paper.pdf)||
+|Year|Pub|Paper|Repo|
 |2014|ArXiv|[Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT](https://lmb.informatik.uni-freiburg.de/Publications/2014/FDB14/1405.5769v1.pdf)||
-|2015|ICCV|[iscriminative Learning of Deep Convolutional Feature Point Descriptors](https://openaccess.thecvf.com/content_iccv_2015/papers/Simo-Serra_Discriminative_Learning_of_ICCV_2015_paper.pdf)|[Code](https://github.com/etrulls/deepdesc-release)|
+|2014|TPAMI|[Learning Local Feature Descriptors Using Convex Optimisation](https://www.robots.ox.ac.uk/~vedaldi/assets/pubs/simonyan14learning.pdf)||
+|2015|ICCV|[Discriminative Learning of Deep Convolutional Feature Point Descriptors](https://openaccess.thecvf.com/content_iccv_2015/papers/Simo-Serra_Discriminative_Learning_of_ICCV_2015_paper.pdf)|[Code](https://github.com/etrulls/deepdesc-release)|
 |2015|CVPR|[Learning to Compare Image Patches via Convolutional Neural Networks](https://arxiv.org/pdf/1504.03641.pdf)|[Blog](https://blog.csdn.net/m0_61899108/article/details/122609390)|
 |2015|CVPR|[MatchNet: Unifying Feature and Metric Learning for Patch-Based Matching](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Han_MatchNet_Unifying_Feature_2015_CVPR_paper.pdf)|[Blog](https://blog.csdn.net/qq_36104364/article/details/115299866)|
 |2015|CVPR|[Computing the Stereo Matching Cost with a Convolutional Neural Network](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zbontar_Computing_the_Stereo_2015_CVPR_paper.pdf)||
