@@ -75,10 +75,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2019|CVPR|[SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tian_SOSNet_Second_Order_Similarity_Regularization_for_Local_Descriptor_Learning_CVPR_2019_paper.pdf)|[Code](https://github.com/scape-research/SOSNet)|
 |2019|CVWW|[Leveraging Outdoor Webcams for Local Descriptor Learning](https://arxiv.org/pdf/1901.09780.pdf)|[Data](https://github.com/pultarmi/AMOS_patches)|
 |2019|ICCV|[Beyond Cartesian Representations for Local Descriptors](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ebel_Beyond_Cartesian_Representations_for_Local_Descriptors_ICCV_2019_paper.pdf)|[Code](https://github.com/cvlab-epfl/log-polar-descriptors)|
-|Year|Pub|Paper|Repo|
-|Year|Pub|Paper|Repo|
-|Year|Pub|Paper|Repo|
-|Year|Pub|Paper|Repo|
+|2019|NeurIPS|[GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://proceedings.neurips.cc/paper_files/paper/2019/file/34306d99c63613fad5b2a140398c0420-Paper.pdf)|[Project page](https://zju3dv.github.io/GIFT/)|
+|2020|ECCV|[Learning Feature Descriptors using Camera Pose Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460732.pdf)|[Project page](https://qianqianwang68.github.io/CAPS/)|
+|2020|ECCV|[Online Invariance Selection for Local Feature Descriptors](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470698.pdf)|[Code](https://github.com/rpautrat/LISRD)|
+|2021|IROS|[RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching](https://arxiv.org/pdf/2103.08573.pdf)|[Project page](https://uditsinghparihar.github.io/RoRD/)|
+|2023|CVPR|[FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network](https://arxiv.org/pdf/2211.15069.pdf)|[Code](https://github.com/SJTU-ViSYS/FeatureBooster)|
+|2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project page](http://cvlab.postech.ac.kr/research/RELF/)|
+|2023|arXiv|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
 
 
 ## Joint Detector & Descriptor Learning
