@@ -15,7 +15,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 - [Benchmark](#benchmark)
 - [Detector Learning](#detector-learning)
 - [Descriptor Learning](#descriptor-learning)
-- [Detector & Descriptor Learning](#detector-&-descriptor-learning)
+- [Detector & Descriptor Learning](#detector--descriptor-learning)
 - [Others](#others)
 
 
