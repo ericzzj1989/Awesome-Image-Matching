@@ -13,10 +13,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Table of contents
 - [Survey](#survey)
 - [Benchmark](#benchmark)
-- [Datasets](#datasets)
 - [Detector Learning](#detector-learning)
 - [Descriptor Learning](#descriptor-learning)
-- [Joint Detector & Descriptor Learning](#joint-detector-descriptor-learning)
+- [Detector & Descriptor Learning](#detector-descriptor-learning)
 - [Others](#others)
 
 
