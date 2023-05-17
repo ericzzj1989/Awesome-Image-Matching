@@ -115,6 +115,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
 |arXiv|2022|[Shared Coupling-bridge for Weakly Supervised Local Feature Learning](https://arxiv.org/pdf/2212.07047.pdf)|[Code](https://github.com/sunjiayuanro/SCFeat)|
 |2023|CVPR|[Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints](https://arxiv.org/pdf/2304.00583.pdf)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)|
+|2023|CVPR|[SFD2: Semantic-Guided Feature Detection and Description](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/sfd2)|
+|2023|CVPR|[Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)||
+|2023|CVPR|[D2Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-Based Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/He_D2Former_Jointly_Learning_Hierarchical_Detectors_and_Contextual_Descriptors_via_Agent-Based_CVPR_2023_paper.pdf)||
 |2023|RAL|[Learning Task-Aligned Local Features for Visual Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103591)||
 |2023|TIM|[ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation](https://arxiv.org/pdf/2304.03608.pdf)|[Code](https://github.com/Shiaoming/ALIKED)|
 |2023|TPAMI|[Attention Weighted Local Descriptors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105519)|[Code](https://github.com/vignywang/AWDesc)|
