@@ -54,6 +54,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2020|ACCV|[D2D: Keypoint Extraction with Describe to Detect Approach](https://openaccess.thecvf.com/content/ACCV2020/papers/Tian_D2D_Keypoint_Extraction_with_Describe_to_Detect_Approach_ACCV_2020_paper.pdf)||
 |2021|WACV|[Learning of low-level feature keypoints for accurate and robust detection](https://openaccess.thecvf.com/content/WACV2021/papers/Suwanwimolkul_Learning_of_Low-Level_Feature_Keypoints_for_Accurate_and_Robust_Detection_WACV_2021_paper.pdf)||
 |2022|CVPR|[Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.pdf)|[Project page](http://cvlab.postech.ac.kr/research/REKD/)|
+|2023|arXiv|[Shi-NeSS: Detecting Good and Stable Keypoints with a Neural Stability Score](https://arxiv.org/pdf/2307.01069.pdf)||
 
 
 ## Descriptor Learning
@@ -114,6 +115,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|NeurIPS|[TUSK: Task-Agnostic Unsupervised Keypoints](https://arxiv.org/pdf/2206.08460.pdf)||
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
 |arXiv|2022|[Shared Coupling-bridge for Weakly Supervised Local Feature Learning](https://arxiv.org/pdf/2212.07047.pdf)|[Code](https://github.com/sunjiayuanro/SCFeat)|
+|2023|AAAI|[DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/25161/24933)|[Code](https://github.com/THU-LYJ-Lab/DarkFeat)|
 |2023|CVPR|[Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints](https://arxiv.org/pdf/2304.00583.pdf)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)|
 |2023|CVPR|[SFD2: Semantic-Guided Feature Detection and Description](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/sfd2)|
 |2023|CVPR|[Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)||
