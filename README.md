@@ -124,8 +124,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|RAL|[Learning Task-Aligned Local Features for Visual Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103591)||
 |2023|TIM|[ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation](https://arxiv.org/pdf/2304.03608.pdf)|[Code](https://github.com/Shiaoming/ALIKED)|
 |2023|TPAMI|[Attention Weighted Local Descriptors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105519)|[Code](https://github.com/vignywang/AWDesc)|
-|2023|arXiv|[SiLK: Simple Learned Keypoints](https://arxiv.org/pdf/2304.06194.pdf)|[Code](https://github.com/facebookresearch/silk)|
-
+|2023|ICCV|[SiLK: Simple Learned Keypoints](https://arxiv.org/pdf/2304.06194.pdf)|[Code](https://github.com/facebookresearch/silk)|
+|2023|ICCV|[S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](https://arxiv.org/pdf/2308.14598.pdf)||
 
 ## Others
 |Year|Pub|Paper|Repo|
