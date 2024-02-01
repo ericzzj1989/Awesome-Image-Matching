@@ -23,6 +23,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2021|IJCV|[Image Matching from Handcrafted to Deep Features: A Survey](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)|[Blog](https://blog.csdn.net/qq_42708183/article/details/109133806)|
+|2023|arXiv|[Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/pdf/2401.17592.pdf)||
 
 ## Benchmark
 |Year|Pub|Paper|Repo|
