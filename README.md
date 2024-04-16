@@ -57,7 +57,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|CVPR|[Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.pdf)|[Project page](http://cvlab.postech.ac.kr/research/REKD/)|
 |2023|arXiv|[Shi-NeSS: Detecting Good and Stable Keypoints with a Neural Stability Score](https://arxiv.org/pdf/2307.01069.pdf)||
 |2023|PRL|[Improving the matching of deformable objects by learning to detect keypoints](https://arxiv.org/pdf/2309.00434.pdf)|[Code](https://github.com/verlab/LearningToDetect_PRL_2023)|
-|2024|WACV|[[BALF: Simple and Efficient Blur Aware Local Feature Detector](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_BALF_Simple_and_Efficient_Blur_Aware_Local_Feature_Detector_WACV_2024_paper.pdf)|[Project page]([https://github.com/verlab/LearningToDetect_PRL_2023](https://ericzzj1989.github.io/balf)|
+|2024|WACV|[[BALF: Simple and Efficient Blur Aware Local Feature Detector](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_BALF_Simple_and_Efficient_Blur_Aware_Local_Feature_Detector_WACV_2024_paper.pdf)|[Project page](https://ericzzj1989.github.io/balf)|
 
 
 ## Descriptor Learning
