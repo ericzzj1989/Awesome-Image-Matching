@@ -131,6 +131,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|TPAMI|[Attention Weighted Local Descriptors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105519)|[Code](https://github.com/vignywang/AWDesc)|
 |2023|ICCV|[SiLK: Simple Learned Keypoints](https://arxiv.org/pdf/2304.06194.pdf)|[Code](https://github.com/facebookresearch/silk)|
 |2023|ICCV|[S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](https://arxiv.org/pdf/2308.14598.pdf)||
+|2023|ICRA|[Knowledge Distillation for Feature Extraction in Underwater VSLAM](https://arxiv.org/pdf/2303.17981.pdf)|[Dataset](https://github.com/Jinghe-mel/UFEN-SLAM)|
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 
 ## Others
