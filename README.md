@@ -133,6 +133,14 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|ICCV|[S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](https://arxiv.org/pdf/2308.14598.pdf)||
 |2023|ICRA|[Knowledge Distillation for Feature Extraction in Underwater VSLAM](https://arxiv.org/pdf/2303.17981.pdf)|[Dataset](https://github.com/Jinghe-mel/UFEN-SLAM)|
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
+|2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
+
+
+## Feature Matching
+|Year|Pub|Paper|Repo|
+|:---:|:---:|:---:|:---:|
+|2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
+
 
 ## Others
 |Year|Pub|Paper|Repo|
