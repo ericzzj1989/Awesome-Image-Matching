@@ -97,6 +97,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|ICRA|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
 |2023|arXiv|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152.pdf)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2023|arXiv|[Residual Learning for Image Point Descriptors](https://arxiv.org/pdf/2312.15471.pdf)||
+|2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 
 
 ## Detector & Descriptor Learning
@@ -140,7 +141,16 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 ## Feature Matching
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
+|2020|CVPR|[SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/pdf/1911.11763)|[Code](https://github.com/magicleap/SuperGluePretrainedNetwork)|
+|2021|CVPR|[LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/pdf/2104.00680)|[Project page](https://zju3dv.github.io/loftr/)|
+|2021|ICCV|[COTR: Correspondence Transformer for Matching Across Images](https://arxiv.org/pdf/2103.14167)|[Code](https://github.com/ubc-vision/COTR)|
+|2022|ICLR|[QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767)|[Code](https://github.com/Tangshitao/QuadTreeAttention)|
+|2022|ECCV|[ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/pdf/2208.14201)|[Code](https://github.com/apple/ml-aspanformer)|
+|2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project page](https://parskatt.github.io/DKM/)|
+|2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
+|2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project page](https://parskatt.github.io/RoMa/)|
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
+|2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project page](https://zju3dv.github.io/efficientloftr/)|
 
 
 ## Others
