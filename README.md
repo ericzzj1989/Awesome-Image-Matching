@@ -148,7 +148,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|ECCV|[ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/pdf/2208.14201)|[Code](https://github.com/apple/ml-aspanformer)|
 |2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project page](https://parskatt.github.io/DKM/)|
 |2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/imp-release)|
-|2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling]([https://arxiv.org/pdf/2202.00667](https://arxiv.org/pdf/2304.14837))|[Project page](https://parskatt.github.io/DKM/)|
 |2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
 |2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project page](https://parskatt.github.io/RoMa/)|
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
