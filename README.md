@@ -40,6 +40,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2019|BMVC|[An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://jwbian.net/Papers/FM_BMVC19.pdf)|[Code](https://github.com/JiawangBian/FM-Bench)|
 |2021|IJCV|[Image Matching across Wide Baselines: From Paper to Practice](https://arxiv.org/pdf/2003.01587.pdf)|[Code](https://github.com/ubc-vision/image-matching-benchmark)|
 |2023|CVPR|[A Large Scale Homography Benchmark](https://arxiv.org/pdf/2302.09997.pdf)|[Code](https://github.com/danini/homography-benchmark)|
+|2024|IROS|[GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection](https://arxiv.org/pdf/2407.11736)|[Code](https://github.com/jarvisyjw/GV-Bench)|
 
 
 ## Detector Learning
