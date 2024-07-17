@@ -59,6 +59,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|PRL|[Improving the matching of deformable objects by learning to detect keypoints](https://arxiv.org/pdf/2309.00434.pdf)|[Code](https://github.com/verlab/LearningToDetect_PRL_2023)|
 |2024|WACV|[BALF: Simple and Efficient Blur Aware Local Feature Detector](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_BALF_Simple_and_Efficient_Blur_Aware_Local_Feature_Detector_WACV_2024_paper.pdf)|[Project page](https://ericzzj1989.github.io/balf)|
 |2024|ICML|[Scale-Free Image Keypoints Using Differentiable Persistent Homology](https://arxiv.org/pdf/2406.01315)|[Code](https://github.com/gbarbarani/MorseDet)|
+|2024|ECCV|[Learning to Make Keypoints Sub-Pixel Accurate](https://arxiv.org/pdf/2407.11668)|[Code](https://github.com/KimSinjeong/keypt2subpx)|
 
 
 ## Descriptor Learning
