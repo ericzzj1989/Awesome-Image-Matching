@@ -151,11 +151,14 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project page](https://parskatt.github.io/DKM/)|
 |2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/imp-release)|
 |2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
+|2023|arXiv|[Searching from Area to Point: A Semantic Guided Framework with Geometric Consistency for Accurate Feature Matching](https://arxiv.org/pdf/2305.00194)|[Code](https://github.com/Easonyesheng/SGAM)|
 |2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project page](https://parskatt.github.io/RoMa/)|
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
 |2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project page](https://zju3dv.github.io/efficientloftr/)|
+|2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
 |2024|arXiv|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[Code](https://github.com/naver/mast3r)|
+|2024|arXiv|[DMESA: Densely Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2408.00279)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 
 
 ## Others
