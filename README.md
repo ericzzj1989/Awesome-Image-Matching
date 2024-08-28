@@ -140,6 +140,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|ICRA|[Knowledge Distillation for Feature Extraction in Underwater VSLAM](https://arxiv.org/pdf/2303.17981.pdf)|[Dataset](https://github.com/Jinghe-mel/UFEN-SLAM)|
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 |2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
+|2024|CVPRW|[DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Edstedt_DeDoDe_v2_Analyzing_and_Improving_the_DeDoDe_Keypoint_Detector_CVPRW_2024_paper.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 
 
 ## Feature Matching
@@ -150,6 +151,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2021|ICCV|[COTR: Correspondence Transformer for Matching Across Images](https://arxiv.org/pdf/2103.14167)|[Code](https://github.com/ubc-vision/COTR)|
 |2022|ICLR|[QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767)|[Code](https://github.com/Tangshitao/QuadTreeAttention)|
 |2022|ECCV|[ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/pdf/2208.14201)|[Code](https://github.com/apple/ml-aspanformer)|
+|2022|ACCV|[MatchFormer: Interleaving Attention in Transformers for Feature Matching](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_MatchFormer_Interleaving_Attention_in_Transformers_for_Feature_Matching_ACCV_2022_paper.pdf)|[Code](https://github.com/jamycheung/MatchFormer)|
 |2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project page](https://parskatt.github.io/DKM/)|
 |2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/imp-release)|
 |2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
