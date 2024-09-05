@@ -42,6 +42,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|CVPR|[A Large Scale Homography Benchmark](https://arxiv.org/pdf/2302.09997.pdf)|[Code](https://github.com/danini/homography-benchmark)|
 |2024|IROS|[GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection](https://arxiv.org/pdf/2407.11736)|[Code](https://github.com/jarvisyjw/GV-Bench)|
 |2024|arXiv|[Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks](https://arxiv.org/pdf/2408.16445)|[Code](https://github.com/surgical-vision/colmap-match-converter)|
+|2024|arXiv|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
 
 
 ## Detector Learning
