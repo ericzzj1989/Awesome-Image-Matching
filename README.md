@@ -100,7 +100,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project page](http://cvlab.postech.ac.kr/research/RELF/)|
 |2023|TIM|[Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance](https://arxiv.org/pdf/2305.07943.pdf)||
 |2023|ICRA|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
-|2023|arXiv|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152.pdf)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2023|arXiv|[Residual Learning for Image Point Descriptors](https://arxiv.org/pdf/2312.15471.pdf)||
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
