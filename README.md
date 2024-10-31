@@ -144,6 +144,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 |2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
 |2024|CVPRW|[DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Edstedt_DeDoDe_v2_Analyzing_and_Improving_the_DeDoDe_Keypoint_Detector_CVPRW_2024_paper.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
+|2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 
 
 ## Feature Matching
@@ -167,6 +168,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[StereoGlue: Joint Feature Matching and Robust Estimation]()||
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
 |2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Code](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
+|2024|NeurIPS|[ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses](https://arxiv.org/pdf/2410.22733)||
 |2024|arXiv|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[Code](https://github.com/naver/mast3r)|
 |2024|arXiv|[DMESA: Densely Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2408.00279)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|arXiv|[ConDL: Detector-Free Dense Image Matching](https://arxiv.org/pdf/2408.02766)||
