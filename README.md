@@ -144,6 +144,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 |2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
 |2024|CVPRW|[DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Edstedt_DeDoDe_v2_Analyzing_and_Improving_the_DeDoDe_Keypoint_Detector_CVPRW_2024_paper.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
+|2024|arXiv|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 
 
