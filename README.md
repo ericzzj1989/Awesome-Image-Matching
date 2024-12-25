@@ -176,6 +176,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[ConDL: Detector-Free Dense Image Matching](https://arxiv.org/pdf/2408.02766)||
 |2024|arXiv|[Geometry-aware Feature Matching for Large-Scale Structure from Motion](https://arxiv.org/pdf/2409.02310)||
 |2024|arXiv|[HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation](https://arxiv.org/pdf/2411.06700)||
+|2024|arXiv|[GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network](https://arxiv.org/pdf/2412.18221)|[Code](https://github.com/songxf1024/GIMS)|
 
 
 ## Others
