@@ -165,6 +165,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
 |2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project page](https://zju3dv.github.io/efficientloftr/)|
 |2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
+|2024|CVPRW|[XoFTR: Cross-modal Feature Matching Transformer](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Tuzcuoglu_XoFTR_Cross-modal_Feature_Matching_Transformer_CVPRW_2024_paper.pdf)|[Code](https://github.com/OnderT/XoFTR)|
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
 |2024|ECCV|[StereoGlue: Joint Feature Matching and Robust Estimation]()||
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
@@ -178,6 +179,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation](https://arxiv.org/pdf/2411.06700)||
 |2024|arXiv|[GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network](https://arxiv.org/pdf/2412.18221)|[Code](https://github.com/songxf1024/GIMS)|
 |2024|arXiv|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
+|2024|arXiv|[XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration](https://arxiv.org/pdf/2411.07430)|[Code](https://github.com/canyagmur/XPoint)|
 
 
 ## Others
