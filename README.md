@@ -169,7 +169,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
 |2024|ECCV|[StereoGlue: Joint Feature Matching and Robust Estimation]()||
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
-|2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Code](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
+|2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
 |2024|NeurIPS|[ETO: Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses](https://arxiv.org/pdf/2410.22733)||
 |2024|IJCV|[Feature Matching via Graph Clustering with Local Affine Consensus](https://link.springer.com/article/10.1007/s11263-024-02291-5)||
 |2024|arXiv|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[Code](https://github.com/naver/mast3r)|
