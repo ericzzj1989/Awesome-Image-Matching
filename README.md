@@ -188,4 +188,5 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |:---:|:---:|:---:|:---:|
 |2016|CVPR|[Learning to Assign Orientations to Feature Points](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf)|[Code](https://github.com/vcg-uvic/benchmark-orientation)|
 |2020|CVPR|[On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kayhan_On_Translation_Invariance_in_CNNs_Convolutional_Layers_Can_Exploit_Absolute_CVPR_2020_paper.pdf)|[Code](https://github.com/oskyhn/CNNs-Without-Borders)|
+|2022|AAAI|[Guide Local Feature Matching by Overlap Estimation](https://arxiv.org/pdf/2202.09050)|[Code](https://github.com/AbyssGaze/OETR)|
 |2024|ICLR|[GIM: Learning Generalizable Image Matcher From Internet Videos](https://arxiv.org/pdf/2402.11095)|[Project page](https://xuelunshen.com/gim/)|
