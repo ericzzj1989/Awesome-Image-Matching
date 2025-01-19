@@ -168,11 +168,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|CVPRW|[XoFTR: Cross-modal Feature Matching Transformer](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Tuzcuoglu_XoFTR_Cross-modal_Feature_Matching_Transformer_CVPRW_2024_paper.pdf)|[Code](https://github.com/OnderT/XoFTR)|
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
-|2024|ECCV|[StereoGlue: Joint Feature Matching and Robust Estimation]()||
+|2024|ECCV|[StereoGlue: Robust Estimation with Single-Point Solvers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07485.pdf)|[Code](https://github.com/danini/stereoglue)|
+|2024|ECCV|[iMatching: Imperative Correspondence Learning](https://arxiv.org/pdf/2312.02141)|[Code](https://github.com/sair-lab/iMatching)|
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
 |2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
 |2024|NeurIPS|[ETO: Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses](https://arxiv.org/pdf/2410.22733)||
 |2024|IJCV|[Feature Matching via Graph Clustering with Local Affine Consensus](https://link.springer.com/article/10.1007/s11263-024-02291-5)||
+|2023|arXiv|[AffineGlue: Joint Matching and Robust Estimation](https://arxiv.org/pdf/2307.15381)||
 |2024|arXiv|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[Code](https://github.com/naver/mast3r)|
 |2024|arXiv|[DMESA: Densely Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2408.00279)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|arXiv|[ConDL: Detector-Free Dense Image Matching](https://arxiv.org/pdf/2408.02766)||
