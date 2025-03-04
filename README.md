@@ -44,6 +44,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|IROS|[GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection](https://arxiv.org/pdf/2407.11736)|[Code](https://github.com/jarvisyjw/GV-Bench)|
 |2024|arXiv|[Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks](https://arxiv.org/pdf/2408.16445)|[Code](https://github.com/surgical-vision/colmap-match-converter)|
 |2024|arXiv|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
+|2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
 
 
 ## Detector Learning
@@ -104,6 +105,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|arXiv|[Residual Learning for Image Point Descriptors](https://arxiv.org/pdf/2312.15471.pdf)||
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
+|2025|arXiv|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
 
 
 ## Detector & Descriptor Learning
