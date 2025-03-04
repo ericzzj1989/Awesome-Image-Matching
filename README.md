@@ -184,6 +184,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
 |2024|arXiv|[XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration](https://arxiv.org/pdf/2411.07430)|[Code](https://github.com/canyagmur/XPoint)|
 |2025|ICRA|[MambaGlue: Fast and Robust Local Feature Matching With Mamba](https://arxiv.org/pdf/2502.00462)|[Code](https://github.com/url-kaist/MambaGlue)|
+|2025|CVPR|[EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching](https://arxiv.org/pdf/2502.20685)|[Project page](https://jdk9405.github.io/EDM/)|
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 
