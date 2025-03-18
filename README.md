@@ -149,6 +149,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|CVPRW|[DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Edstedt_DeDoDe_v2_Analyzing_and_Improving_the_DeDoDe_Keypoint_Detector_CVPRW_2024_paper.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
 |2024|arXiv|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
+|2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
 
 
 ## Feature Matching
@@ -193,6 +194,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
 |2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
+|2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
+|2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
 
 
 ## Others
