@@ -196,6 +196,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
 |2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
 |2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
+|2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
 
 
 ## Others
