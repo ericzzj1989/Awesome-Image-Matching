@@ -66,6 +66,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ICML|[Scale-Free Image Keypoints Using Differentiable Persistent Homology](https://arxiv.org/pdf/2406.01315)|[Code](https://github.com/gbarbarani/MorseDet)|
 |2024|ECCV|[Learning to Make Keypoints Sub-Pixel Accurate](https://arxiv.org/pdf/2407.11668)|[Code](https://github.com/KimSinjeong/keypt2subpx)|
 |2024|ECCV|[GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring](https://arxiv.org/pdf/2408.17149)||
+|2025|CVPR|[Good Keypoints for the Two-View Geometry Estimation Problem](https://arxiv.org/pdf/2503.18767)|[Code](https://github.com/KonstantinPakulev/BoNeSS-ST)|
 |2025|arXiv|[DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/pdf/2503.07347)|[Code](https://github.com/parskatt/dad)|
 
 
