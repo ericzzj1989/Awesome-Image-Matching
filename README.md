@@ -151,6 +151,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 |2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
+|2025|arXiv|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project page](https://smartroboticslab.github.io/SuperEvent/)|
 
 
 ## Feature Matching
@@ -198,6 +199,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
 |2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
+|2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
 
 
 ## Others
