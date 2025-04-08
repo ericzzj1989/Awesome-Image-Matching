@@ -201,6 +201,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
 |2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
+|2025|arXiv|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 
 
 ## Others
