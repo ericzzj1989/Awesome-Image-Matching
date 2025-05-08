@@ -196,6 +196,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|CVPR|[EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching](https://arxiv.org/pdf/2502.20685)|[Project page](https://jdk9405.github.io/EDM/)|
 |2025|CVPR|[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/pdf/2503.03437)|[Project page](https://leoluxxx.github.io/JamMa-page/)|
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
+|2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
@@ -204,7 +205,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
 |2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
-|2025|arXiv|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
 
