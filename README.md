@@ -188,7 +188,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[DMESA: Densely Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2408.00279)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|arXiv|[ConDL: Detector-Free Dense Image Matching](https://arxiv.org/pdf/2408.02766)||
 |2024|arXiv|[Geometry-aware Feature Matching for Large-Scale Structure from Motion](https://arxiv.org/pdf/2409.02310)||
-|2024|arXiv|[HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation](https://arxiv.org/pdf/2411.06700)||
 |2024|arXiv|[GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network](https://arxiv.org/pdf/2412.18221)|[Code](https://github.com/songxf1024/GIMS)|
 |2024|arXiv|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
 |2024|arXiv|[XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration](https://arxiv.org/pdf/2411.07430)|[Code](https://github.com/canyagmur/XPoint)|
@@ -197,6 +196,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|CVPR|[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/pdf/2503.03437)|[Project page](https://leoluxxx.github.io/JamMa-page/)|
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
 |2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
+|2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
