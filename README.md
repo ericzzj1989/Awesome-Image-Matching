@@ -151,6 +151,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 |2025|ICRA|[LiftFeat: 3D Geometry-Aware Local Feature Matching](https://arxiv.org/pdf/2505.03422)|[Code](https://github.com/lyp-deeplearning/LiftFeat)|
+|2025|CVPR|[RDD: Robust Feature Detector and Descriptor using Deformable Transformer](https://arxiv.org/pdf/2505.08013)|[Project page](https://xtcpete.github.io/rdd/)|
 |2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
 |2025|arXiv|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|arXiv|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
