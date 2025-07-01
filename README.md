@@ -209,6 +209,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
+|2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 
 
 ## Others
