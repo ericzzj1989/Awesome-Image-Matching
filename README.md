@@ -200,12 +200,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
 |2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 |2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
+|2025|ICCV|[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318)||
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
 |2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
 |2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
-|2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)||
+|2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|[Code](https://github.com/ASU-ESIC-FAN-Lab/speedy_mast3r)|
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
 |2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
