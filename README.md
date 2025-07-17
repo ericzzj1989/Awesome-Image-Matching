@@ -200,6 +200,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
 |2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 |2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
+|2025|ICCV|[Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space](https://arxiv.org/pdf/2507.00392)|[Code](https://github.com/Sharpiless/L2M)|
 |2025|ICCV|[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318)||
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
@@ -212,7 +213,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
-|2025|arXiv|[Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space](https://arxiv.org/pdf/2507.00392)||
 
 
 ## Others
