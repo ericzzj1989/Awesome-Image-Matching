@@ -202,6 +202,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
 |2025|ICCV|[Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space](https://arxiv.org/pdf/2507.00392)|[Code](https://github.com/Sharpiless/L2M)|
 |2025|ICCV|[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318)||
+|2025|ICCV|[CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312)|[Code](https://github.com/pq-chen/CasP)|
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
