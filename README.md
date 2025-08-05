@@ -221,6 +221,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
+|2025|arXiv|[SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching](https://arxiv.org/pdf/2508.02278)||
 
 
 ## Others
