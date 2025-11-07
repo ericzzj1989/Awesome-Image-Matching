@@ -215,7 +215,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
 |2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
 |2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|[Code](https://github.com/ASU-ESIC-FAN-Lab/speedy_mast3r)|
-|2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
+|2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/kaplasak/MapGlue)|
 |2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
