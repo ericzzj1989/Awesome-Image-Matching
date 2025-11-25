@@ -52,6 +52,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks](https://arxiv.org/pdf/2408.16445)|[Code](https://github.com/surgical-vision/colmap-match-converter)|
 |2024|arXiv|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
 |2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
+|2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2502.19955)|[Project page](https://c3po-correspondence.github.io/)|
 
 
 ## Detector Learning
@@ -222,6 +223,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
 |2025|arXiv|[SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching](https://arxiv.org/pdf/2508.02278)||
+|2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
 
 
 ## Others
