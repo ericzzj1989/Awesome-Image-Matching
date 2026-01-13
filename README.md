@@ -161,8 +161,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|ICRA|[LiftFeat: 3D Geometry-Aware Local Feature Matching](https://arxiv.org/pdf/2505.03422)|[Code](https://github.com/lyp-deeplearning/LiftFeat)|
 |2025|CVPR|[RDD: Robust Feature Detector and Descriptor using Deformable Transformer](https://arxiv.org/pdf/2505.08013)|[Project page](https://xtcpete.github.io/rdd/)|
 |2025|ICCV|[RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839)|[Project page](https://fraunhoferhhi.github.io/RIPE/)|
+|2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
-|2025|arXiv|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|arXiv|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 
