@@ -30,7 +30,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2021|IJCV|[Image Matching from Handcrafted to Deep Features: A Survey](https://link.springer.com/content/pdf/10.1007/s11263-020-01359-2.pdf)|[Blog](https://blog.csdn.net/qq_42708183/article/details/109133806)|
-|2023|arXiv|[Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/pdf/2401.17592.pdf)||
+|2024|Information Fusion|[Local Feature Matching Using Deep Learning: A Survey](https://arxiv.org/pdf/2401.17592.pdf)|[Paper List](https://github.com/vignywang/Awesome-Local-Feature-Matching)|
 |2025|arXiv|[Deep Learning Reforms Image Matching: A Survey and Outlook](https://arxiv.org/pdf/2506.04619)||
 
 ## Benchmark
@@ -42,17 +42,17 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2011|ICCV|[Edge Foci Interest Points](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126263)||
 |2011|IJCV|[Interesting Interest Points](https://roboimagedata2.compute.dtu.dk/data/text/IJCV_2011.pdf)||
 |2017|CVPR|[Comparative Evaluation of Hand-Crafted and Learned Local Features](https://demuc.de/papers/schoenberger2017comparative.pdf)|[Code](https://github.com/ahojnnes/local-feature-evaluation)|
-|2017|CVPR|[HPatches: A benchmark and evaluation of handcrafted and learned local descriptors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.pdf)|[Code & Project page](https://hpatches.github.io/)|
+|2017|CVPR|[HPatches: A benchmark and evaluation of handcrafted and learned local descriptors](https://openaccess.thecvf.com/content_cvpr_2017/papers/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.pdf)|[Code & Project Page](https://hpatches.github.io/)|
 |2018|BMVC|[Large scale evaluation of local image feature detectors on homography datasets](http://www.bmva.org/bmvc/2018/contents/papers/0462.pdf)|[Code](https://github.com/lenck/vlb-deteval)|
-|2018|CVPR|[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.pdf)|[Project page](https://www.cs.cornell.edu/projects/megadepth/)|
+|2018|CVPR|[MegaDepth: Learning Single-View Depth Prediction from Internet Photos](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.pdf)|[Project Page](https://www.cs.cornell.edu/projects/megadepth/)|
 |2019|BMVC|[An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://jwbian.net/Papers/FM_BMVC19.pdf)|[Code](https://github.com/JiawangBian/FM-Bench)|
 |2021|IJCV|[Image Matching across Wide Baselines: From Paper to Practice](https://arxiv.org/pdf/2003.01587.pdf)|[Code](https://github.com/ubc-vision/image-matching-benchmark)|
 |2023|CVPR|[A Large Scale Homography Benchmark](https://arxiv.org/pdf/2302.09997.pdf)|[Code](https://github.com/danini/homography-benchmark)|
 |2024|IROS|[GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection](https://arxiv.org/pdf/2407.11736)|[Code](https://github.com/jarvisyjw/GV-Bench)|
-|2024|arXiv|[Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks](https://arxiv.org/pdf/2408.16445)|[Code](https://github.com/surgical-vision/colmap-match-converter)|
-|2024|arXiv|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
+|2024|ECCVW|[Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks](https://arxiv.org/pdf/2408.16445)|[Code](https://github.com/surgical-vision/colmap-match-converter)|
+|2024|ECCVW|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
 |2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
-|2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project page](https://c3po-correspondence.github.io/)|
+|2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project Page](https://c3po-correspondence.github.io/)|
 
 
 ## Detector Learning
@@ -67,10 +67,10 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2019|ICCV|[ELF: Embedded Localisation of Features in Pre-Trained CNN](https://openaccess.thecvf.com/content_ICCV_2019/papers/Benbihi_ELF_Embedded_Localisation_of_Features_in_Pre-Trained_CNN_ICCV_2019_paper.pdf)|[Code](https://github.com/abenbihi/elf)|
 |2020|ACCV|[D2D: Keypoint Extraction with Describe to Detect Approach](https://openaccess.thecvf.com/content/ACCV2020/papers/Tian_D2D_Keypoint_Extraction_with_Describe_to_Detect_Approach_ACCV_2020_paper.pdf)||
 |2021|WACV|[Learning of low-level feature keypoints for accurate and robust detection](https://openaccess.thecvf.com/content/WACV2021/papers/Suwanwimolkul_Learning_of_Low-Level_Feature_Keypoints_for_Accurate_and_Robust_Detection_WACV_2021_paper.pdf)||
-|2022|CVPR|[Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.pdf)|[Project page](http://cvlab.postech.ac.kr/research/REKD/)|
+|2022|CVPR|[Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Self-Supervised_Equivariant_Learning_for_Oriented_Keypoint_Detection_CVPR_2022_paper.pdf)|[Project Page](http://cvlab.postech.ac.kr/research/REKD/)|
 |2023|ICCV|[NeSS-ST: Detecting Good and Stable Keypoints with a Neural Stability Score and the Shi-Tomasi detector](https://openaccess.thecvf.com/content/ICCV2023/papers/Pakulev_NeSS-ST_Detecting_Good_and_Stable_Keypoints_with_a_Neural_Stability_ICCV_2023_paper.pdf)|[Code](https://github.com/KonstantinPakulev/NeSS-ST)|
 |2023|PRL|[Improving the matching of deformable objects by learning to detect keypoints](https://arxiv.org/pdf/2309.00434.pdf)|[Code](https://github.com/verlab/LearningToDetect_PRL_2023)|
-|2024|WACV|[BALF: Simple and Efficient Blur Aware Local Feature Detector](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_BALF_Simple_and_Efficient_Blur_Aware_Local_Feature_Detector_WACV_2024_paper.pdf)|[Project page](https://ericzzj1989.github.io/balf)|
+|2024|WACV|[BALF: Simple and Efficient Blur Aware Local Feature Detector](https://openaccess.thecvf.com/content/WACV2024/papers/Zhao_BALF_Simple_and_Efficient_Blur_Aware_Local_Feature_Detector_WACV_2024_paper.pdf)|[Project Page](https://ericzzj1989.github.io/balf)|
 |2024|ICML|[Scale-Free Image Keypoints Using Differentiable Persistent Homology](https://arxiv.org/pdf/2406.01315)|[Code](https://github.com/gbarbarani/MorseDet)|
 |2024|ECCV|[Learning to Make Keypoints Sub-Pixel Accurate](https://arxiv.org/pdf/2407.11668)|[Code](https://github.com/KimSinjeong/keypt2subpx)|
 |2024|ECCV|[GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring](https://arxiv.org/pdf/2408.17149)||
@@ -103,19 +103,19 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2019|CVPR|[SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tian_SOSNet_Second_Order_Similarity_Regularization_for_Local_Descriptor_Learning_CVPR_2019_paper.pdf)|[Code](https://github.com/scape-research/SOSNet)|
 |2019|CVWW|[Leveraging Outdoor Webcams for Local Descriptor Learning](https://arxiv.org/pdf/1901.09780.pdf)|[Data](https://github.com/pultarmi/AMOS_patches)|
 |2019|ICCV|[Beyond Cartesian Representations for Local Descriptors](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ebel_Beyond_Cartesian_Representations_for_Local_Descriptors_ICCV_2019_paper.pdf)|[Code](https://github.com/cvlab-epfl/log-polar-descriptors)|
-|2019|NeurIPS|[GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://proceedings.neurips.cc/paper_files/paper/2019/file/34306d99c63613fad5b2a140398c0420-Paper.pdf)|[Project page](https://zju3dv.github.io/GIFT/)|
-|2020|ECCV|[Learning Feature Descriptors using Camera Pose Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460732.pdf)|[Project page](https://qianqianwang68.github.io/CAPS/)|
+|2019|NeurIPS|[GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://proceedings.neurips.cc/paper_files/paper/2019/file/34306d99c63613fad5b2a140398c0420-Paper.pdf)|[Project Page](https://zju3dv.github.io/GIFT/)|
+|2020|ECCV|[Learning Feature Descriptors using Camera Pose Supervision](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460732.pdf)|[Project Page](https://qianqianwang68.github.io/CAPS/)|
 |2020|ECCV|[Online Invariance Selection for Local Feature Descriptors](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470698.pdf)|[Code](https://github.com/rpautrat/LISRD)|
-|2021|IROS|[RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching](https://arxiv.org/pdf/2103.08573.pdf)|[Project page](https://uditsinghparihar.github.io/RoRD/)|
+|2021|IROS|[RoRD: Rotation-Robust Descriptors and Orthographic Views for Local Feature Matching](https://arxiv.org/pdf/2103.08573.pdf)|[Project Page](https://uditsinghparihar.github.io/RoRD/)|
 |2022|AAAI|[MTLDesc: Looking Wider to Describe Better](https://arxiv.org/pdf/2203.07003.pdf)|[Code](https://github.com/vignywang/MTLDesc)|
 |2023|CVPR|[FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network](https://arxiv.org/pdf/2211.15069.pdf)|[Code](https://github.com/SJTU-ViSYS/FeatureBooster)|
-|2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project page](http://cvlab.postech.ac.kr/research/RELF/)|
+|2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project Page](http://cvlab.postech.ac.kr/research/RELF/)|
 |2023|TIM|[Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance](https://arxiv.org/pdf/2305.07943.pdf)||
 |2023|ICRA|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
 |2023|arXiv|[Residual Learning for Image Point Descriptors](https://arxiv.org/pdf/2312.15471.pdf)||
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
-|2025|arXiv|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
+|2025|ISPRS Journal of Photogrammetry and Remote Sensing|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
 
 
@@ -125,7 +125,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2016|ECCV|[LIFT: Learned Invariant Feature Points](https://arxiv.org/pdf/1603.09114.pdf)|[Code](https://github.com/cvlab-epfl/LIFT)|
 |2018|CVPRW|[SuperPoint: Self-Supervised Interest Point Detection and Description](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w9/DeTone_SuperPoint_Self-Supervised_Interest_CVPR_2018_paper.pdf)|[Code](https://github.com/magicleap/SuperPointPretrainedNetwork)|
 |2018|NeurIPS|[LF-Net: Learning Local Features from Images](https://proceedings.neurips.cc/paper_files/paper/2018/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf)|[Code](https://github.com/vcg-uvic/lf-net-release)|
-|2019|CVPR|[D2-Net: A Trainable CNN for Joint Detection and Description of Local Features](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)|[Project page](https://github.com/mihaidusmanu/d2-net)|
+|2019|CVPR|[D2-Net: A Trainable CNN for Joint Detection and Description of Local Features](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dusmanu_D2-Net_A_Trainable_CNN_for_Joint_Description_and_Detection_of_CVPR_2019_paper.pdf)|[Project Page](https://github.com/mihaidusmanu/d2-net)|
 |2019|NeurIPS|[R2D2: Repeatable and Reliable Detector and Descriptor](https://proceedings.neurips.cc/paper_files/paper/2019/file/3198dfd0aef271d22f7bcddd6f12f5cb-Paper.pdf)|[Code](https://github.com/naver/r2d2)|
 |2019|arXiv|[UnsuperPoint: End-to-end Unsupervised Interest Point Detector and Descriptor](https://arxiv.org/pdf/1907.04011.pdf)||
 |2020|CVPR|[ASLFeat: Learning Local Features of Accurate Shape and Localization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_ASLFeat_Learning_Local_Features_of_Accurate_Shape_and_Localization_CVPR_2020_paper.pdf)|[Code](https://github.com/lzx551402/aslfeat)|
@@ -135,14 +135,14 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2020|arXiv|[SEKD: Self-Evolving Keypoint Detection and Description](https://arxiv.org/pdf/2006.05077.pdf)||
 |2021|IROS|[RaP-Net: A Region-wise and Point-wise Weighting Network to Extract Robust Features for Indoor Localization](https://arxiv.org/pdf/2012.00234.pdf)|[Code](https://github.com/ivipsourcecode/RaP-Net)|
 |2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
-|2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation]()|[Project page](https://bmvc2022.mpi-inf.mpg.de/552/)|
+|2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation]()|[Project Page](https://bmvc2022.mpi-inf.mpg.de/552/)|
 |2022|CVPR|[Decoupling Makes Weakly Supervised Local Feature Better](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)|[Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)|
 |2022|ECCV|[Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)|[Code](https://github.com/ruc-aimc-lab/SuperRetina)|
 |2022|NeurIPS|[TUSK: Task-Agnostic Unsupervised Keypoints](https://arxiv.org/pdf/2206.08460.pdf)||
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
 |arXiv|2022|[Shared Coupling-bridge for Weakly Supervised Local Feature Learning](https://arxiv.org/pdf/2212.07047.pdf)|[Code](https://github.com/sunjiayuanro/SCFeat)|
 |2023|AAAI|[DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/25161/24933)|[Code](https://github.com/THU-LYJ-Lab/DarkFeat)|
-|2023|CVPR|[Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints](https://arxiv.org/pdf/2304.00583.pdf)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)|
+|2023|CVPR|[Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints](https://arxiv.org/pdf/2304.00583.pdf)|[Project Page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)|
 |2023|CVPR|[SFD2: Semantic-Guided Feature Detection and Description](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/sfd2)|
 |2023|CVPR|[Learning Transformation-Predictive Representations for Detection and Description of Local Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Transformation-Predictive_Representations_for_Detection_and_Description_of_Local_Features_CVPR_2023_paper.pdf)||
 |2023|CVPR|[D2Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-Based Transformers](https://openaccess.thecvf.com/content/CVPR2023/papers/He_D2Former_Jointly_Learning_Hierarchical_Detectors_and_Contextual_Descriptors_via_Agent-Based_CVPR_2023_paper.pdf)||
@@ -155,16 +155,16 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|ICCV|[S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](https://arxiv.org/pdf/2308.14598.pdf)||
 |2023|ICRA|[Knowledge Distillation for Feature Extraction in Underwater VSLAM](https://arxiv.org/pdf/2303.17981.pdf)|[Dataset](https://github.com/Jinghe-mel/UFEN-SLAM)|
 |2024|3DV|[DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching](https://arxiv.org/pdf/2308.08479.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
-|2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
+|2024|CVPR|[XFeat: Accelerated Features for Lightweight Image Matching](https://arxiv.org/pdf/2404.19174)|[Project Page](https://www.verlab.dcc.ufmg.br/descriptors/xfeat_cvpr24/)|
 |2024|CVPRW|[DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Edstedt_DeDoDe_v2_Analyzing_and_Improving_the_DeDoDe_Keypoint_Detector_CVPRW_2024_paper.pdf)|[Code](https://github.com/Parskatt/DeDoDe)|
-|2024|arXiv|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project page](https://roboticimaging.org/Projects/LBurst/)|
+|2025|IJCNN|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project Page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 |2025|ICRA|[LiftFeat: 3D Geometry-Aware Local Feature Matching](https://arxiv.org/pdf/2505.03422)|[Code](https://github.com/lyp-deeplearning/LiftFeat)|
-|2025|CVPR|[RDD: Robust Feature Detector and Descriptor using Deformable Transformer](https://arxiv.org/pdf/2505.08013)|[Project page](https://xtcpete.github.io/rdd/)|
-|2025|ICCV|[RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839)|[Project page](https://fraunhoferhhi.github.io/RIPE/)|
-|2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project page](https://smartroboticslab.github.io/SuperEvent/)|
+|2025|CVPR|[RDD: Robust Feature Detector and Descriptor using Deformable Transformer](https://arxiv.org/pdf/2505.08013)|[Project Page](https://xtcpete.github.io/rdd/)|
+|2025|ICCV|[RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839)|[Project Page](https://fraunhoferhhi.github.io/RIPE/)|
+|2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project Page](https://smartroboticslab.github.io/SuperEvent/)|
+|2025|RAL|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
 |2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
-|2025|arXiv|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 
 
@@ -172,26 +172,26 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |Year|Pub|Paper|Repo|
 |:---:|:---:|:---:|:---:|
 |2020|CVPR|[SuperGlue: Learning Feature Matching with Graph Neural Networks](https://arxiv.org/pdf/1911.11763)|[Code](https://github.com/magicleap/SuperGluePretrainedNetwork)|
-|2021|CVPR|[LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/pdf/2104.00680)|[Project page](https://zju3dv.github.io/loftr/)|
+|2021|CVPR|[LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/pdf/2104.00680)|[Project Page](https://zju3dv.github.io/loftr/)|
 |2021|ICCV|[COTR: Correspondence Transformer for Matching Across Images](https://arxiv.org/pdf/2103.14167)|[Code](https://github.com/ubc-vision/COTR)|
 |2022|ICLR|[QuadTree Attention for Vision Transformers](https://arxiv.org/pdf/2201.02767)|[Code](https://github.com/Tangshitao/QuadTreeAttention)|
 |2022|ECCV|[ASpanFormer: Detector-Free Image Matching with Adaptive Span Transformer](https://arxiv.org/pdf/2208.14201)|[Code](https://github.com/apple/ml-aspanformer)|
 |2022|ACCV|[MatchFormer: Interleaving Attention in Transformers for Feature Matching](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_MatchFormer_Interleaving_Attention_in_Transformers_for_Feature_Matching_ACCV_2022_paper.pdf)|[Code](https://github.com/jamycheung/MatchFormer)|
-|2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project page](https://parskatt.github.io/DKM/)|
+|2023|CVPR|[DKM: Dense Kernelized Feature Matching for Geometry Estimation](https://arxiv.org/pdf/2202.00667)|[Project Page](https://parskatt.github.io/DKM/)|
 |2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/imp-release)|
 |2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
-|2023|ICCV|[End2End Multi-View Feature Matching with Differentiable Pose Optimization](https://arxiv.org/pdf/2205.01694)|[Project page](https://barbararoessle.github.io/e2e_multi_view_matching/)|
+|2023|ICCV|[End2End Multi-View Feature Matching with Differentiable Pose Optimization](https://arxiv.org/pdf/2205.01694)|[Project Page](https://barbararoessle.github.io/e2e_multi_view_matching/)|
 |2023|arXiv|[Searching from Area to Point: A Semantic Guided Framework with Geometric Consistency for Accurate Feature Matching](https://arxiv.org/pdf/2305.00194)|[Code](https://github.com/Easonyesheng/SGAM)|
-|2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project page](https://parskatt.github.io/RoMa/)|
-|2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project page](https://hwjiang1510.github.io/OmniGlue/)|
-|2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project page](https://zju3dv.github.io/efficientloftr/)|
+|2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project Page](https://parskatt.github.io/RoMa/)|
+|2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project Page](https://hwjiang1510.github.io/OmniGlue/)|
+|2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project Page](https://zju3dv.github.io/efficientloftr/)|
 |2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|CVPRW|[XoFTR: Cross-modal Feature Matching Transformer](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Tuzcuoglu_XoFTR_Cross-modal_Feature_Matching_Transformer_CVPRW_2024_paper.pdf)|[Code](https://github.com/OnderT/XoFTR)|
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
 |2024|ECCV|[StereoGlue: Robust Estimation with Single-Point Solvers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07485.pdf)|[Code](https://github.com/danini/stereoglue)|
 |2024|ECCV|[iMatching: Imperative Correspondence Learning](https://arxiv.org/pdf/2312.02141)|[Code](https://github.com/sair-lab/iMatching)|
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
-|2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Project page](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
+|2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Project Page](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
 |2024|NeurIPS|[ETO: Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses](https://arxiv.org/pdf/2410.22733)||
 |2024|IJCV|[Feature Matching via Graph Clustering with Local Affine Consensus](https://link.springer.com/article/10.1007/s11263-024-02291-5)||
 |2023|arXiv|[AffineGlue: Joint Matching and Robust Estimation](https://arxiv.org/pdf/2307.15381)||
@@ -203,15 +203,15 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|arXiv|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
 |2024|arXiv|[XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration](https://arxiv.org/pdf/2411.07430)|[Code](https://github.com/canyagmur/XPoint)|
 |2025|ICRA|[MambaGlue: Fast and Robust Local Feature Matching With Mamba](https://arxiv.org/pdf/2502.00462)|[Code](https://github.com/url-kaist/MambaGlue)|
-|2025|CVPR|[EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching](https://arxiv.org/pdf/2502.20685)|[Project page](https://jdk9405.github.io/EDM/)|
-|2025|CVPR|[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/pdf/2503.03437)|[Project page](https://leoluxxx.github.io/JamMa-page/)|
+|2025|CVPR|[EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching](https://arxiv.org/pdf/2502.20685)|[Project Page](https://jdk9405.github.io/EDM/)|
+|2025|CVPR|[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/pdf/2503.03437)|[Project Page](https://leoluxxx.github.io/JamMa-page/)|
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
 |2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
 |2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
 |2025|ICCV|[Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space](https://arxiv.org/pdf/2507.00392)|[Code](https://github.com/Sharpiless/L2M)|
 |2025|ICCV|[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318)||
 |2025|ICCV|[CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312)|[Code](https://github.com/pq-chen/CasP)|
-|2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project page](https://zju3dv.github.io/MatchAnything/)|
+|2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project Page](https://zju3dv.github.io/MatchAnything/)|
 |2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
 |2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
@@ -233,4 +233,4 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2016|CVPR|[Learning to Assign Orientations to Feature Points](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf)|[Code](https://github.com/vcg-uvic/benchmark-orientation)|
 |2020|CVPR|[On Translation Invariance in CNNs: Convolutional Layers can Exploit Absolute Spatial Location](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kayhan_On_Translation_Invariance_in_CNNs_Convolutional_Layers_Can_Exploit_Absolute_CVPR_2020_paper.pdf)|[Code](https://github.com/oskyhn/CNNs-Without-Borders)|
 |2022|AAAI|[Guide Local Feature Matching by Overlap Estimation](https://arxiv.org/pdf/2202.09050)|[Code](https://github.com/AbyssGaze/OETR)|
-|2024|ICLR|[GIM: Learning Generalizable Image Matcher From Internet Videos](https://arxiv.org/pdf/2402.11095)|[Project page](https://xuelunshen.com/gim/)|
+|2024|ICLR|[GIM: Learning Generalizable Image Matcher From Internet Videos](https://arxiv.org/pdf/2402.11095)|[Project Page](https://xuelunshen.com/gim/)|
