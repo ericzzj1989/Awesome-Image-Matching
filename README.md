@@ -116,6 +116,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
 |2025|arXiv|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
+|2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
 
 
 ## Detector & Descriptor Learning
