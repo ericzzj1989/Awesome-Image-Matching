@@ -140,7 +140,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|ECCV|[Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)|[Code](https://github.com/ruc-aimc-lab/SuperRetina)|
 |2022|NeurIPS|[TUSK: Task-Agnostic Unsupervised Keypoints](https://arxiv.org/pdf/2206.08460.pdf)||
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
-|arXiv|2022|[Shared Coupling-bridge for Weakly Supervised Local Feature Learning](https://arxiv.org/pdf/2212.07047.pdf)|[Code](https://github.com/sunjiayuanro/SCFeat)|
 |2023|AAAI|[DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/25161/24933)|[Code](https://github.com/THU-LYJ-Lab/DarkFeat)|
 |2023|CVPR|[Enhancing Deformable Local Features by Jointly Learning to Detect and Describe Keypoints](https://arxiv.org/pdf/2304.00583.pdf)|[Project Page](https://www.verlab.dcc.ufmg.br/descriptors/dalf_cvpr23/)|
 |2023|CVPR|[SFD2: Semantic-Guided Feature Detection and Description](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_SFD2_Semantic-Guided_Feature_Detection_and_Description_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/sfd2)|
@@ -150,6 +149,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|CVPRW|[ZippyPoint: Fast Interest Point Detection, Description, and Matching through Mixed Precision Discretization](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Kanakis_ZippyPoint_Fast_Interest_Point_Detection_Description_and_Matching_Through_Mixed_CVPRW_2023_paper.pdf)|[Code](https://github.com/menelaoskanakis/ZippyPoint)|
 |2023|RAL|[Learning Task-Aligned Local Features for Visual Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10103591)||
 |2023|TIM|[ALIKED: A Lighter Keypoint and Descriptor Extraction Network via Deformable Transformation](https://arxiv.org/pdf/2304.03608.pdf)|[Code](https://github.com/Shiaoming/ALIKED)|
+|2023|TMM|[Shared Coupling-Bridge Scheme for Weakly Supervised Local Feature Learning](https://arxiv.org/pdf/2212.07047.pdf)|[Code](https://github.com/sunjiayuanro/SCFeat)|
 |2023|TPAMI|[Attention Weighted Local Descriptors](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10105519)|[Code](https://github.com/vignywang/AWDesc)|
 |2023|ICCV|[SiLK: Simple Learned Keypoints](https://arxiv.org/pdf/2304.06194.pdf)|[Code](https://github.com/facebookresearch/silk)|
 |2023|ICCV|[S-TREK: Sequential Translation and Rotation Equivariant Keypoints for local feature extraction](https://arxiv.org/pdf/2308.14598.pdf)||
@@ -160,11 +160,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|IJCNN|[LBurst: Learning-Based Robotic Burst Feature Extraction for 3D Reconstruction in Low Light](https://arxiv.org/pdf/2410.23522)|[Project Page](https://roboticimaging.org/Projects/LBurst/)|
 |2025|WACV|[EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data](https://arxiv.org/pdf/2410.21743)|[Code](https://github.com/ZhonghuaYi/EI-Nexus_official)|
 |2025|ICRA|[LiftFeat: 3D Geometry-Aware Local Feature Matching](https://arxiv.org/pdf/2505.03422)|[Code](https://github.com/lyp-deeplearning/LiftFeat)|
+|2025|ICRA|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
 |2025|CVPR|[RDD: Robust Feature Detector and Descriptor using Deformable Transformer](https://arxiv.org/pdf/2505.08013)|[Project Page](https://xtcpete.github.io/rdd/)|
 |2025|ICCV|[RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839)|[Project Page](https://fraunhoferhhi.github.io/RIPE/)|
 |2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project Page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|RAL|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
-|2025|arXiv|[Keypoint Detection and Description for Raw Bayer Images](https://arxiv.org/pdf/2503.08673)||
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 
 
@@ -181,11 +181,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|CVPR|[IMP: Iterative Matching and Pose Estimation with Adaptive Pooling](https://openaccess.thecvf.com/content/CVPR2023/papers/Xue_IMP_Iterative_Matching_and_Pose_Estimation_With_Adaptive_Pooling_CVPR_2023_paper.pdf)|[Code](https://github.com/feixue94/imp-release)|
 |2023|ICCV|[LightGlue: Local Feature Matching at Light Speed](https://arxiv.org/pdf/2306.13643)|[Code](https://github.com/cvg/LightGlue)|
 |2023|ICCV|[End2End Multi-View Feature Matching with Differentiable Pose Optimization](https://arxiv.org/pdf/2205.01694)|[Project Page](https://barbararoessle.github.io/e2e_multi_view_matching/)|
-|2023|arXiv|[Searching from Area to Point: A Semantic Guided Framework with Geometric Consistency for Accurate Feature Matching](https://arxiv.org/pdf/2305.00194)|[Code](https://github.com/Easonyesheng/SGAM)|
+|2023|arXiv|[Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching](https://arxiv.org/pdf/2305.00194)|[Code](https://github.com/Easonyesheng/SGAM)|
 |2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project Page](https://parskatt.github.io/RoMa/)|
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project Page](https://hwjiang1510.github.io/OmniGlue/)|
 |2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project Page](https://zju3dv.github.io/efficientloftr/)|
-|2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_MESA_Matching_Everything_by_Segmenting_Anything_CVPR_2024_paper.pdf)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
+|2024|CVPR|[MESA: Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2401.16741)|[Project Page](https://cvl.sjtu.edu.cn/getpaper/1103)|
 |2024|CVPRW|[XoFTR: Cross-modal Feature Matching Transformer](https://openaccess.thecvf.com/content/CVPR2024W/IMW/papers/Tuzcuoglu_XoFTR_Cross-modal_Feature_Matching_Transformer_CVPRW_2024_paper.pdf)|[Code](https://github.com/OnderT/XoFTR)|
 |2024|ECCV|[Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching](https://arxiv.org/pdf/2407.07789)||
 |2024|ECCV|[StereoGlue: Robust Estimation with Single-Point Solvers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07485.pdf)|[Code](https://github.com/danini/stereoglue)|
@@ -196,34 +196,35 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|IJCV|[Feature Matching via Graph Clustering with Local Affine Consensus](https://link.springer.com/article/10.1007/s11263-024-02291-5)||
 |2023|arXiv|[AffineGlue: Joint Matching and Robust Estimation](https://arxiv.org/pdf/2307.15381)||
 |2024|arXiv|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[Code](https://github.com/naver/mast3r)|
-|2024|arXiv|[DMESA: Densely Matching Everything by Segmenting Anything](https://arxiv.org/pdf/2408.00279)|[Code](https://github.com/Easonyesheng/A2PM-MESA)|
 |2024|arXiv|[ConDL: Detector-Free Dense Image Matching](https://arxiv.org/pdf/2408.02766)||
-|2024|arXiv|[Geometry-aware Feature Matching for Large-Scale Structure from Motion](https://arxiv.org/pdf/2409.02310)||
-|2024|arXiv|[GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network](https://arxiv.org/pdf/2412.18221)|[Code](https://github.com/songxf1024/GIMS)|
-|2024|arXiv|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
 |2024|arXiv|[XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration](https://arxiv.org/pdf/2411.07430)|[Code](https://github.com/canyagmur/XPoint)|
+|2025|COINS|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|[Code](https://github.com/ASU-ESIC-FAN-Lab/speedy_mast3r)|
 |2025|ICRA|[MambaGlue: Fast and Robust Local Feature Matching With Mamba](https://arxiv.org/pdf/2502.00462)|[Code](https://github.com/url-kaist/MambaGlue)|
+|2025|3DV|[Geometry-aware Feature Matching for Large-Scale Structure from Motion](https://arxiv.org/pdf/2409.02310)||
 |2025|CVPR|[EDM: Equirectangular Projection-Oriented Dense Kernelized Feature Matching](https://arxiv.org/pdf/2502.20685)|[Project Page](https://jdk9405.github.io/EDM/)|
 |2025|CVPR|[JamMa: Ultra-lightweight Local Feature Matching with Joint Mamba](https://arxiv.org/pdf/2503.03437)|[Project Page](https://leoluxxx.github.io/JamMa-page/)|
 |2025|CVPR|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)||
 |2025|CVPR|[Learning Affine Correspondences by Integrating Geometric Constraints](https://arxiv.org/pdf/2504.04834)|[Code](https://github.com/stilcrad/DenseAffine)|
+|2025|CVPR|[MINIMA: Modality Invariant Image Matching](https://arxiv.org/pdf/2412.19412)|[Code](https://github.com/LSXI7/MINIMA)|
+|2025|CVPR|[MATCHA:Towards Matching Anything](https://arxiv.org/pdf/2501.14945)|[Project Page](https://feixue94.github.io/matcha-project/)|
 |2025|AAAI|[HomoMatcher: Achieving Dense Feature Matching with Semi-Dense Efficiency by Homography Estimation](https://ojs.aaai.org/index.php/AAAI/article/view/32857/35012)||
 |2025|ICCV|[Learning Dense Feature Matching via Lifting Single 2D Image to 3D Space](https://arxiv.org/pdf/2507.00392)|[Code](https://github.com/Sharpiless/L2M)|
 |2025|ICCV|[Mind the Gap: Aligning Vision Foundation Models to Image Feature Matching](https://arxiv.org/pdf/2507.10318)||
 |2025|ICCV|[CasP: Improving Semi-Dense Feature Matching Pipeline Leveraging Cascaded Correspondence Priors for Guidance](https://arxiv.org/pdf/2507.17312)|[Code](https://github.com/pq-chen/CasP)|
+|2025|ICCV|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
+|2025|ICCV|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)|[Code](https://github.com/ZizhuoLi/CoMatch)|
+|2025|ICCV|[SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching](https://arxiv.org/pdf/2508.02278)|[Project Page](https://mr-chiwang.github.io/SGAD/)|
+|2025|IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
+|2025|Neural Networks|[GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network](https://arxiv.org/pdf/2412.18221)|[Code](https://github.com/songxf1024/GIMS)|
+|2025|TIP|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)|[Code](https://github.com/lyp-deeplearning/MIFNet)|
+|2025|TPAMI|[MESA: Effective Matching Redundancy Reduction by Semantic Area Segmentation](https://arxiv.org/pdf/2408.00279)|[Project Page](https://cvl.sjtu.edu.cn/getpaper/1107)|
 |2025|arXiv|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556)|[Project Page](https://zju3dv.github.io/MatchAnything/)|
-|2025|arXiv|[MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching](https://arxiv.org/pdf/2501.11299)||
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
-|2025|arXiv|[EDM: Efficient Deep Feature Matching](https://arxiv.org/pdf/2503.05122)|[Code](https://github.com/chicleee/EDM)|
-|2025|arXiv|[SatDepth: A Novel Dataset for Satellite Image Matching](https://arxiv.org/pdf/2503.12706)|[Code](https://github.com/rahuldeshmukh43/satdepth)|
-|2025|arXiv|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|[Code](https://github.com/ASU-ESIC-FAN-Lab/speedy_mast3r)|
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
-|2025|arXiv|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)||
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
 |2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
-|2025|arXiv|[SGAD: Semantic and Geometric-aware Descriptor for Local Feature Matching](https://arxiv.org/pdf/2508.02278)||
 |2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
 
 
