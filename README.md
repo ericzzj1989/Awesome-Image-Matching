@@ -76,6 +76,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring](https://arxiv.org/pdf/2408.17149)||
 |2025|arXiv|[Good Keypoints for the Two-View Geometry Estimation Problem](https://arxiv.org/pdf/2503.18767)|[Code](https://github.com/KonstantinPakulev/BoNeSS-ST)|
 |2025|arXiv|[DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/pdf/2503.07347)|[Code](https://github.com/parskatt/dad)|
+|2026|arXiv|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
 
 
 ## Descriptor Learning
@@ -117,6 +118,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
 |2025|ISPRS Journal of Photogrammetry and Remote Sensing|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
+|2026|arXiv|[A Streamlined Attention-Based Network for Descriptor Extraction](https://arxiv.org/pdf/2601.13126)||
 
 
 ## Detector & Descriptor Learning
