@@ -76,7 +76,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring](https://arxiv.org/pdf/2408.17149)||
 |2025|arXiv|[Good Keypoints for the Two-View Geometry Estimation Problem](https://arxiv.org/pdf/2503.18767)|[Code](https://github.com/KonstantinPakulev/BoNeSS-ST)|
 |2025|arXiv|[DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/pdf/2503.07347)|[Code](https://github.com/parskatt/dad)|
-|2026|3DV|[RaCo: Ranking and Covariance for Practical Learned Keypoints](https://openreview.net/pdf?id=BWtdgrdcBH)|[Code](https://github.com/cvg/RaCo)|
+|2026|3DV|[RaCo: Ranking and Covariance for Practical Learned Keypoints](https://arxiv.org/pdf/2602.15755)|[Code](https://github.com/cvg/RaCo)|
 |2026|arXiv|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
 
 
