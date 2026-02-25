@@ -78,7 +78,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/pdf/2503.07347)|[Code](https://github.com/parskatt/dad)|
 |2026|CVPR|[From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection](https://arxiv.org/pdf/2602.20630)||
 |2026|3DV|[RaCo: Ranking and Covariance for Practical Learned Keypoints](https://arxiv.org/pdf/2602.15755)|[Code](https://github.com/cvg/RaCo)|
-|2026|arXiv|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
+|2026|3DV|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
 
 
 ## Descriptor Learning
@@ -119,8 +119,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
 |2025|ISPRS Journal of Photogrammetry and Remote Sensing|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
+|2026|3DV|[A Streamlined Attention-Based Network for Descriptor Extraction](https://arxiv.org/pdf/2601.13126)||
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
-|2026|arXiv|[A Streamlined Attention-Based Network for Descriptor Extraction](https://arxiv.org/pdf/2601.13126)||
 
 
 ## Detector & Descriptor Learning
@@ -226,7 +226,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration](https://arxiv.org/pdf/2503.04127)||
 |2025|arXiv|[MapGlue: Multimodal Remote Sensing Image Matching](https://arxiv.org/pdf/2503.16185)|[Code](https://github.com/PeihaoWu/MapGlue)|
 |2025|arXiv|[Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation](https://arxiv.org/pdf/2504.11949)||
-|2025|arXiv|[Focus What Matters: Matchability-Based Reweighting for Local Feature Matching](https://arxiv.org/pdf/2505.02161)||
+|2025|arXiv|[Not All Pixels Are Equal: Confidence-Guided Attention for Feature Matching](https://arxiv.org/pdf/2505.02161)||
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
 |2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
