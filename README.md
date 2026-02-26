@@ -95,7 +95,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2016|CoRR|[PN-Net: Conjoined Triple Deep Networks for Learning Local Image Descriptors](https://arxiv.org/pdf/1601.05030.pdf)|[Code](https://github.com/vbalnt/pnnet), [Blog](https://blog.csdn.net/qq_36104364/article/details/115324732)|
 |2016|CVPR|[Learning Local Image Descriptors with Deep Siamese and Triplet Convolutional Networks by Minimizing Global Loss Functions](https://openaccess.thecvf.com/content_cvpr_2016/papers/G_Learning_Local_Image_CVPR_2016_paper.pdf)||
 |2016|CVPRW|[Euclidean and Hamming Embedding for Image Patch Description with Convolutional Networks](https://openaccess.thecvf.com/content_cvpr_2016_workshops/w24/papers/Liu_Euclidean_and_Hamming_CVPR_2016_paper.pdf)||
-|2016|RAL|[Self-Supervised Visual Descriptor Learning for Dense Correspondence](https://homes.cs.washington.edu/~tws10/3163.pdf)||
+|2016|RAL|[Self-Supervised Visual Descriptor Learning for Dense Correspondence](https://ieeexplore.ieee.org/document/7762851)||
 |2017|CVPR|[L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf)|[Code](https://github.com/yuruntian/L2-Net)|
 |2017|NeurIPS|[Working hard to know your neighbor's margins: Local descriptor learning loss](https://arxiv.org/pdf/1705.10872.pdf)|[Code](https://github.com/DagnyT/hardnet)|
 |2018|CoRL|[Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization](https://arxiv.org/pdf/1809.01019.pdf)|[Code](https://github.com/ethz-asl/hierarchical_loc)|
