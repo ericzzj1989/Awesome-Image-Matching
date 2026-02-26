@@ -143,7 +143,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation]()|[Project Page](https://bmvc2022.mpi-inf.mpg.de/552/)|
 |2022|CVPR|[Decoupling Makes Weakly Supervised Local Feature Better](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)|[Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)|
 |2022|ECCV|[Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)|[Code](https://github.com/ruc-aimc-lab/SuperRetina)|
-|2022|NeurIPS|[TUSK: Task-Agnostic Unsupervised Keypoints](https://arxiv.org/pdf/2206.08460.pdf)||
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
 |2022|TIP|[ReDFeat: Recoupling Detection and Description for Multimodal Feature Learning](https://arxiv.org/pdf/2205.07439)|[Code](https://github.com/ACuOoOoO/ReDFeat)|
 |2023|AAAI|[DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images](https://ojs.aaai.org/index.php/AAAI/article/view/25161/24933)|[Code](https://github.com/THU-LYJ-Lab/DarkFeat)|
