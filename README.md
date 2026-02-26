@@ -98,7 +98,6 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2016|RAL|[Self-Supervised Visual Descriptor Learning for Dense Correspondence](https://ieeexplore.ieee.org/document/7762851)||
 |2017|CVPR|[L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf)|[Code](https://github.com/yuruntian/L2-Net)|
 |2017|NeurIPS|[Working hard to know your neighbor's margins: Local descriptor learning loss](https://arxiv.org/pdf/1705.10872.pdf)|[Code](https://github.com/DagnyT/hardnet)|
-|2018|CoRL|[Leveraging Deep Visual Descriptors for Hierarchical Efficient Localization](https://arxiv.org/pdf/1809.01019.pdf)|[Code](https://github.com/ethz-asl/hierarchical_loc)|
 |2018|CVPR|[Learning Deep Descriptors with Scale-Aware Triplet Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Keller_Learning_Deep_Descriptors_CVPR_2018_paper.pdf)|[Code](https://github.com/4uiiurz1/pytorch-scale-aware-triplet)|
 |2018|CVPR|[Local Descriptors Optimized for Average Precision](https://openaccess.thecvf.com/content_cvpr_2018/papers/He_Local_Descriptors_Optimized_CVPR_2018_paper.pdf)||
 |2018|ECCV|[GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf)|[Code](https://github.com/lzx551402/geodesc)|
