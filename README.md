@@ -53,6 +53,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCVW|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
 |2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
 |2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project Page](https://c3po-correspondence.github.io/)|
+|2026|arXiv|[CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images](https://arxiv.org/pdf/2603.12690)|[Code](https://github.com/SLZ98/CM-Bench)|
 
 
 ## Detector Learning
