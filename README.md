@@ -234,7 +234,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
 |2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
-|2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2602.08430)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
+|2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
 
 
