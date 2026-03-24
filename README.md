@@ -236,6 +236,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
+|2026|arXiv|[EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching](https://arxiv.org/pdf/2603.21463)|[Code](https://github.com/rahuldeshmukh43/epimask)|
 
 
 ## Others
