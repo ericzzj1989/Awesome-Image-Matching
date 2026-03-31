@@ -114,8 +114,9 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2022|AAAI|[MTLDesc: Looking Wider to Describe Better](https://arxiv.org/pdf/2203.07003.pdf)|[Code](https://github.com/vignywang/MTLDesc)|
 |2023|CVPR|[FeatureBooster: Boosting Feature Descriptors with a Lightweight Neural Network](https://arxiv.org/pdf/2211.15069.pdf)|[Code](https://github.com/SJTU-ViSYS/FeatureBooster)|
 |2023|CVPR|[Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/pdf/2303.15472.pdf)|[Project Page](http://cvlab.postech.ac.kr/research/RELF/)|
-|2023|TIM|[Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance](https://arxiv.org/pdf/2305.07943.pdf)||
 |2023|ICRA|[Descriptor Distillation for Efficient Multi-Robot SLAM](https://arxiv.org/pdf/2303.08420.pdf)||
+|2023|IROS|[DRKF: Distilled Rotated Kernel Fusion for Efficient Rotation Invariant Descriptors in Local Feature Matching](https://arxiv.org/pdf/2209.10907)||
+|2023|TIM|[Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance](https://arxiv.org/pdf/2305.07943.pdf)||
 |2023|arXiv|[Residual Learning for Image Point Descriptors](https://arxiv.org/pdf/2312.15471.pdf)||
 |2024|CVPR|[Steerers: A framework for rotation equivariant keypoint descriptors](https://arxiv.org/pdf/2312.02152)|[Code](https://github.com/georg-bn/rotation-steerers)|
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
@@ -235,6 +236,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[MatChA: Cross-Algorithm Matching with Feature Augmentation](https://arxiv.org/pdf/2506.22336)||
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
 |2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
+|2026|CVPR|[MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](https://arxiv.org/pdf/2603.27542)|[Project Page](https://icetea-cv.github.io/mv-roma/)|
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
