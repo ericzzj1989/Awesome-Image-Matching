@@ -174,6 +174,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project Page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|RAL|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
+|2026|arXiv|[GESS: Multi-cue Guided Local Feature Learning via Geometric and Semantic Synergy](https://arxiv.org/pdf/2604.05359)|[Code](https://github.com/yiyscut/GESS)|
 
 
 ## Feature Matching
@@ -241,6 +242,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
 |2026|arXiv|[EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching](https://arxiv.org/pdf/2603.21463)|[Code](https://github.com/rahuldeshmukh43/epimask)|
+|2026|arXiv|[LoMa: Local Feature Matching Revisited](https://arxiv.org/pdf/2604.04931)|[Project Page](https://www.davnords.com/loma)|
+|2026|arXiv|[Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency](https://arxiv.org/pdf/2604.06713)||
 
 
 ## Others
