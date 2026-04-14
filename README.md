@@ -54,6 +54,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
 |2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project Page](https://c3po-correspondence.github.io/)|
 |2026|arXiv|[CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images](https://arxiv.org/pdf/2603.12690)|[Code](https://github.com/SLZ98/CM-Bench)|
+|2026|arXiv|[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/pdf/2604.10217)|[Project Page](https://isaac.earth/rsim/)|
 
 
 ## Detector Learning
@@ -175,6 +176,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|RAL|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 |2026|arXiv|[GESS: Multi-cue Guided Local Feature Learning via Geometric and Semantic Synergy](https://arxiv.org/pdf/2604.05359)|[Code](https://github.com/yiyscut/GESS)|
+|2026|arXiv|[AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization](https://arxiv.org/pdf/2604.09445)||
 
 
 ## Feature Matching
