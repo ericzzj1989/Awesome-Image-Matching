@@ -53,8 +53,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCVW|[Deep Learning Meets Satellite Images – An Evaluation on Handcrafted and Learning-based Features for Multi-date Satellite Stereo Images](https://arxiv.org/pdf/2409.02825)||
 |2025|CVPR|[RUBIK: A Structured Benchmark for Image Matching across Geometric Challenges](https://arxiv.org/pdf/2502.19955)||
 |2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project Page](https://c3po-correspondence.github.io/)|
+|2026|CVPRW|[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/pdf/2604.10217)|[Project Page](https://isaac.earth/rsim/)|
 |2026|arXiv|[CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images](https://arxiv.org/pdf/2603.12690)|[Code](https://github.com/SLZ98/CM-Bench)|
-|2026|arXiv|[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/pdf/2604.10217)|[Project Page](https://isaac.earth/rsim/)|
 
 
 ## Detector Learning
@@ -242,6 +242,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|CVPR|[MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](https://arxiv.org/pdf/2603.27542)|[Project Page](https://icetea-cv.github.io/mv-roma/)|
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
+|2026|CVPRW|[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/pdf/2604.11809)|[Code](https://github.com/davnords/loma)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
 |2026|arXiv|[EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching](https://arxiv.org/pdf/2603.21463)|[Code](https://github.com/rahuldeshmukh43/epimask)|
 |2026|arXiv|[LoMa: Local Feature Matching Revisited](https://arxiv.org/pdf/2604.04931)|[Project Page](https://www.davnords.com/loma)|
