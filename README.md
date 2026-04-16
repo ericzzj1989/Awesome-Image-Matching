@@ -247,6 +247,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching](https://arxiv.org/pdf/2603.21463)|[Code](https://github.com/rahuldeshmukh43/epimask)|
 |2026|arXiv|[LoMa: Local Feature Matching Revisited](https://arxiv.org/pdf/2604.04931)|[Project Page](https://www.davnords.com/loma)|
 |2026|arXiv|[Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency](https://arxiv.org/pdf/2604.06713)||
+|2026|arXiv|[SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation](https://arxiv.org/pdf/2604.13941)|[Code](https://github.com/songlin-du/SceneGlue)|
 
 
 ## Others
