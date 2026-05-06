@@ -240,6 +240,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[VMatcher: State-Space Semi-Dense Local Feature Matching](https://arxiv.org/pdf/2507.23371)|[Code](https://github.com/ayoussf/VMatcher)|
 |2025|arXiv|[SPIDER: Spatial Image CorresponDence Estimator for Robust Calibration](https://arxiv.org/pdf/2511.17750)||
 |2026|CVPR|[MV-RoMa: From Pairwise Matching into Multi-View Track Reconstruction](https://arxiv.org/pdf/2603.27542)|[Project Page](https://icetea-cv.github.io/mv-roma/)|
+|2026|CVPR|[UniCorrn: Unified Correspondence Transformer Across 2D and 3D](https://arxiv.org/pdf/2604.11809)|[Project Page](https://neu-vi.github.io/UniCorrn/)|
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|CVPRW|[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/pdf/2604.11809)|[Code](https://github.com/davnords/loma)|
