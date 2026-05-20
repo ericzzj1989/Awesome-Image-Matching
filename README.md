@@ -194,6 +194,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2023|ICCV|[End2End Multi-View Feature Matching with Differentiable Pose Optimization](https://arxiv.org/pdf/2205.01694)|[Project Page](https://barbararoessle.github.io/e2e_multi_view_matching/)|
 |2023|arXiv|[AffineGlue: Joint Matching and Robust Estimation](https://arxiv.org/pdf/2307.15381)||
 |2023|arXiv|[Searching from Area to Point: A Hierarchical Framework for Semantic-Geometric Combined Feature Matching](https://arxiv.org/pdf/2305.00194)|[Code](https://github.com/Easonyesheng/SGAM)|
+|2024|ICLR|[Diffusion Model for Dense Matching](https://arxiv.org/pdf/2305.19094)|[Project Page](https://cvlab-kaist.github.io/DiffMatch/)|
 |2024|CVPR|[RoMa: Robust Dense Feature Matching](https://arxiv.org/pdf/2305.15404)|[Project Page](https://parskatt.github.io/RoMa/)|
 |2024|CVPR|[OmniGlue: Generalizable Feature Matching with Foundation Model Guidance](https://arxiv.org/pdf/2405.12979)|[Project Page](https://hwjiang1510.github.io/OmniGlue/)|
 |2024|CVPR|[Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf)|[Project Page](https://zju3dv.github.io/efficientloftr/)|
@@ -203,6 +204,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[StereoGlue: Robust Estimation with Single-Point Solvers](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07485.pdf)|[Code](https://github.com/danini/stereoglue)|
 |2024|ECCV|[iMatching: Imperative Correspondence Learning](https://arxiv.org/pdf/2312.02141)|[Code](https://github.com/sair-lab/iMatching)|
 |2024|MM|[PRISM: PRogressive dependency maxImization for Scale-invariant image Matching](https://arxiv.org/pdf/2408.03598)|[Code](https://github.com/Master-cai/PRISM)|
+|2024|MM|[DiffGlue: Diffusion-Aided Image Feature Matching](https://dl.acm.org/doi/pdf/10.1145/3664647.3681069)|[Code](https://github.com/SuhZhang/DiffGlue)|
 |2024|AAAI|[ResMatch: Residual Attention Learning for Feature Matching](https://arxiv.org/pdf/2307.05180)|[Code](https://github.com/ACuOoOoO/ResMatch)|
 |2024|ACCV|[Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence](https://arxiv.org/pdf/2410.09533)|[Project Page](https://www.verlab.dcc.ufmg.br/descriptors/reasoning_accv24/)|
 |2024|NeurIPS|[ETO: Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses](https://arxiv.org/pdf/2410.22733)||
