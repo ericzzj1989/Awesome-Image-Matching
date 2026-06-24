@@ -252,6 +252,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency](https://arxiv.org/pdf/2604.06713)||
 |2026|arXiv|[SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation](https://arxiv.org/pdf/2604.13941)|[Code](https://github.com/songlin-du/SceneGlue)|
 |2026|arXiv|[Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras](https://arxiv.org/pdf/2604.18744)|[Code](https://github.com/spikelab-jhu/Match-Any-Events)|
+|2026|arXiv|[REDI-Match: Rotation-Equivariant Distillation for Efficient and Robust Dense Matching](https://arxiv.org/pdf/2606.24330)|[Code](https://github.com/YinjiGe/REDI-Match)|
 
 
 ## Others
