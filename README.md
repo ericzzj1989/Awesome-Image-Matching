@@ -145,7 +145,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2020|arXiv|[SEKD: Self-Evolving Keypoint Detection and Description](https://arxiv.org/pdf/2006.05077.pdf)|[Code](https://github.com/aliyun/Self-Evolving-Keypoint-Demo)|
 |2021|IROS|[RaP-Net: A Region-wise and Point-wise Weighting Network to Extract Robust Features for Indoor Localization](https://arxiv.org/pdf/2012.00234.pdf)|[Code](https://github.com/ivipsourcecode/RaP-Net)|
 |2022|ACCV|[Rethinking Low-level Features for Interest Point Detection and Description](https://openaccess.thecvf.com/content/ACCV2022/papers/Wang_Rethinking_Low-level_Features_for_Interest_Point_Detection_and_Description_ACCV_2022_paper.pdf)|[Code](https://github.com/wangch-g/lanet)|
-|2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation]()|[Project Page](https://bmvc2022.mpi-inf.mpg.de/552/)|
+|2022|BMVC|[Local Feature Extraction from Salient Regions by Feature Map Transformation](https://arxiv.org/pdf/2301.10413)|[Project Page](https://bmvc2022.mpi-inf.mpg.de/552/)|
 |2022|CVPR|[Decoupling Makes Weakly Supervised Local Feature Better](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Decoupling_Makes_Weakly_Supervised_Local_Feature_Better_CVPR_2022_paper.pdf)|[Code](https://github.com/The-Learning-And-Vision-Atelier-LAVA/PoSFeat)|
 |2022|ECCV|[Semi-Supervised Keypoint Detector and Descriptor for Retinal Image Matching](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136810586.pdf)|[Code](https://github.com/ruc-aimc-lab/SuperRetina)|
 |2022|TMM|[ALIKE: Accurate and Lightweight Keypoint Detection and Descriptor Extraction](https://arxiv.org/pdf/2112.02906.pdf)|[Code](https://github.com/Shiaoming/ALIKE)|
