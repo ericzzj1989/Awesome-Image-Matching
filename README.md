@@ -254,6 +254,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras](https://arxiv.org/pdf/2604.18744)|[Code](https://github.com/spikelab-jhu/Match-Any-Events)|
 |2026|arXiv|[SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching](https://arxiv.org/pdf/2606.03406)|[Project Page](https://xupan.top/Projects/samatcher/)|
 |2026|arXiv|[REDI-Match: Rotation-Equivariant Distillation for Efficient and Robust Dense Matching](https://arxiv.org/pdf/2606.24330)|[Code](https://github.com/YinjiGe/REDI-Match)|
+|2026|arXiv|[AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images](https://arxiv.org/pdf/2606.31077)||
 
 
 ## Others
