@@ -126,6 +126,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|3DV|[A Streamlined Attention-Based Network for Descriptor Extraction](https://arxiv.org/pdf/2601.13126)||
 |2026|RAL|[Learning Rotation-Aware Binary Descriptors for Visual Localization](https://ieeexplore.ieee.org/document/11358690)||
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
+|2026|arXiv|[Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems](https://arxiv.org/pdf/2607.11099)|[Code](https://github.com/ouotingwei/DescPP)|
 
 
 ## Detector & Descriptor Learning
@@ -255,6 +256,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching](https://arxiv.org/pdf/2606.03406)|[Project Page](https://xupan.top/Projects/samatcher/)|
 |2026|arXiv|[REDI-Match: Rotation-Equivariant Distillation for Efficient and Robust Dense Matching](https://arxiv.org/pdf/2606.24330)|[Code](https://github.com/YinjiGe/REDI-Match)|
 |2026|arXiv|[AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images](https://arxiv.org/pdf/2606.31077)||
+|2026|arXiv|[Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation](https://arxiv.org/pdf/2607.10082)|[Code](https://github.com/ZhonghuaYi/nexus2-official)|
 
 
 ## Others
