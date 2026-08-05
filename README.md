@@ -257,6 +257,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[REDI-Match: Rotation-Equivariant Distillation for Efficient and Robust Dense Matching](https://arxiv.org/pdf/2606.24330)|[Code](https://github.com/YinjiGe/REDI-Match)|
 |2026|arXiv|[AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images](https://arxiv.org/pdf/2606.31077)||
 |2026|arXiv|[Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation](https://arxiv.org/pdf/2607.10082)|[Code](https://github.com/ZhonghuaYi/nexus2-official)|
+|2026|arXiv|[SGFormer: Structure-Guided Transformer for Robust Local Feature Matching](https://arxiv.org/pdf/2608.03423)||
 
 
 ## Others
