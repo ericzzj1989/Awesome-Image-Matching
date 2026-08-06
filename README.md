@@ -55,7 +55,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|NeurIPS|[C3Po: Cross-View Cross-Modality Correspondence by Pointmap Prediction](https://arxiv.org/pdf/2511.18559)|[Project Page](https://c3po-correspondence.github.io/)|
 |2026|CVPRW|[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/pdf/2604.10217)|[Project Page](https://isaac.earth/rsim/)|
 |2026|arXiv|[CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images](https://arxiv.org/pdf/2603.12690)|[Code](https://github.com/SLZ98/CM-Bench)|
-
+|2026|arXiv|[LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching](https://arxiv.org/pdf/2608.04106)||
 
 ## Detector Learning
 |Year|Pub|Paper|Repo|
