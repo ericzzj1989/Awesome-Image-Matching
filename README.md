@@ -56,6 +56,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|CVPRW|[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/pdf/2604.10217)|[Project Page](https://isaac.earth/rsim/)|
 |2026|arXiv|[CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images](https://arxiv.org/pdf/2603.12690)|[Code](https://github.com/SLZ98/CM-Bench)|
 |2026|arXiv|[LoRetta: A Foundation Model and Extensive Dataset for Global-Scale Remote Sensing Dense Image Matching](https://arxiv.org/pdf/2608.04106)||
+|2026|arXiv|[Cross-View Feature Matching: Survey, Benchmarking, and Foundation-Model Perspectives](https://arxiv.org/pdf/2608.11093)||
+
 
 ## Detector Learning
 |Year|Pub|Paper|Repo|
@@ -178,6 +180,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 |2026|arXiv|[GESS: Multi-cue Guided Local Feature Learning via Geometric and Semantic Synergy](https://arxiv.org/pdf/2604.05359)|[Code](https://github.com/yiyscut/GESS)|
 |2026|arXiv|[AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization](https://arxiv.org/pdf/2604.09445)||
+|2026|arXiv|[XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](https://arxiv.org/pdf/2608.09519)|[Code](https://github.com/GalaxyGHz/xfeat-revisited)|
 
 
 ## Feature Matching
@@ -258,6 +261,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[AnyMatch: Supercharging Universal Multi-Modal Image Matching with Large-Scale Single-View Images](https://arxiv.org/pdf/2606.31077)||
 |2026|arXiv|[Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation](https://arxiv.org/pdf/2607.10082)|[Code](https://github.com/ZhonghuaYi/nexus2-official)|
 |2026|arXiv|[SGFormer: Structure-Guided Transformer for Robust Local Feature Matching](https://arxiv.org/pdf/2608.03423)||
+|2026|arXiv|[Semi-Dense Matching Uncertainty Is Not Just Local Confidence](https://arxiv.org/pdf/2608.08685)|[Code](https://github.com/khoavpt/Probabilistic-matching)|
 
 
 ## Others
