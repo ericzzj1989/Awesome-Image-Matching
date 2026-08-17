@@ -181,6 +181,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[GESS: Multi-cue Guided Local Feature Learning via Geometric and Semantic Synergy](https://arxiv.org/pdf/2604.05359)|[Code](https://github.com/yiyscut/GESS)|
 |2026|arXiv|[AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization](https://arxiv.org/pdf/2604.09445)||
 |2026|arXiv|[XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](https://arxiv.org/pdf/2608.09519)|[Code](https://github.com/GalaxyGHz/xfeat-revisited)|
+|2026|arXiv|[E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras](https://arxiv.org/pdf/2608.14027)||
 
 
 ## Feature Matching
