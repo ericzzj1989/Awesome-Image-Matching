@@ -177,11 +177,13 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|ICCV|[RIPE: Reinforcement Learning on Unlabeled Image Pairs for Robust Keypoint Extraction](https://arxiv.org/pdf/2507.04839)|[Project Page](https://fraunhoferhhi.github.io/RIPE/)|
 |2025|ICCV|[SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM](https://arxiv.org/pdf/2504.00139)|[Project Page](https://smartroboticslab.github.io/SuperEvent/)|
 |2025|RAL|[Knowledge Distillation for Underwater Feature Extraction and Matching via GAN-synthesized Images](https://arxiv.org/pdf/2504.08253)||
+|2026|ECCV|[Unified and Efficient Point-Line Local Features](https://arxiv.org/pdf/2608.19894)|[Code](https://github.com/francois141/upal)|
 |2025|arXiv|[EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy](https://arxiv.org/pdf/2504.17280)|[Code](https://github.com/HITCSC/EdgePoint2)|
 |2026|arXiv|[GESS: Multi-cue Guided Local Feature Learning via Geometric and Semantic Synergy](https://arxiv.org/pdf/2604.05359)|[Code](https://github.com/yiyscut/GESS)|
 |2026|arXiv|[AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization](https://arxiv.org/pdf/2604.09445)||
 |2026|arXiv|[XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher](https://arxiv.org/pdf/2608.09519)|[Code](https://github.com/GalaxyGHz/xfeat-revisited)|
 |2026|arXiv|[E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras](https://arxiv.org/pdf/2608.14027)||
+|2026|arXiv|[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/pdf/2608.19693)|[Code](https://github.com/fraunhoferhhi/RIPEpp)|
 
 
 ## Feature Matching
