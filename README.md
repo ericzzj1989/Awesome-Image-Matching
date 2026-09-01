@@ -84,6 +84,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|3DV|[RaCo: Ranking and Covariance for Practical Learned Keypoints](https://arxiv.org/pdf/2602.15755)|[Code](https://github.com/cvg/RaCo)|
 |2026|3DV|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
 |2026|arXiv|[Misanthrope: A Privacy-Preserving Keypoint Detector](https://arxiv.org/pdf/2608.23012)|[Code](https://github.com/fratopa/misanthrope)|
+|2026|arXiv|[SSMB: Self-Supervised Local Feature Detection under Motion Blur](https://arxiv.org/pdf/2608.27181)||
 
 
 ## Descriptor Learning
