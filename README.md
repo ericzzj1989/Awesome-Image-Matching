@@ -127,6 +127,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2024|ECCV|[Affine steerers for structured keypoint description](https://arxiv.org/pdf/2408.14186)|[Code](https://github.com/georg-bn/affine-steerers)|
 |2024|AAAI|[SDGMNet: Statistic-Based Dynamic Gradient Modulation for Local Descriptor Learning](https://arxiv.org/pdf/2106.04434)|[Code](https://github.com/ACuOoOoO/SDGMNet)|
 |2025|ISPRS Journal of Photogrammetry and Remote Sensing|[PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching](https://arxiv.org/pdf/2502.18104)|[Code](https://github.com/HanNieWHU/PromptMID)|
+|2026|ECCV|[CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space](https://arxiv.org/pdf/2609.00272)|[Code](https://github.com/paulschneider01/CrossFeat)|
 |2026|3DV|[A Streamlined Attention-Based Network for Descriptor Extraction](https://arxiv.org/pdf/2601.13126)||
 |2026|RAL|[Learning Rotation-Aware Binary Descriptors for Visual Localization](https://ieeexplore.ieee.org/document/11358690)||
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
