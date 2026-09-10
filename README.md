@@ -132,6 +132,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|RAL|[Learning Rotation-Aware Binary Descriptors for Visual Localization](https://ieeexplore.ieee.org/document/11358690)||
 |2026|arXiv|[CLIDD: Cross-Layer Independent Deformable Description for Efficient and Discriminative Local Feature Representation](https://arxiv.org/pdf/2601.09230)|[Code](https://github.com/HITCSC/CLIDD)|
 |2026|arXiv|[Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems](https://arxiv.org/pdf/2607.11099)|[Code](https://github.com/ouotingwei/DescPP)|
+|2026|arXiv|[Radiation, Rotation and Scale Invariant Feature Descriptor for Multimodal Image Matching](https://arxiv.org/pdf/2609.06343)|[Code](https://github.com/yeyuanxin110/RRSI)|
 
 
 ## Detector & Descriptor Learning
@@ -256,9 +257,11 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|ICRA|[SURE: Semi-dense Uncertainty-REfined Feature Matching](https://arxiv.org/pdf/2603.04869)|[Code](https://github.com/LSC-ALAN/SURE)|
 |2026|3DV|[Pixel-Accurate Epipolar Guided Matching](https://arxiv.org/pdf/2603.18401)|[Project Page](https://lexanagibator228.github.io/Pixel-Accurate-Epipolar-Guided-Matching/)|
 |2026|CVPRW|[Who Handles Orientation? Investigating Invariance in Feature Matching](https://arxiv.org/pdf/2604.11809)|[Code](https://github.com/davnords/loma)|
+|2026|ECCV|[RoMa v2: Harder Better Faster Denser Feature Matching](https://arxiv.org/pdf/2511.15706)|[Code](https://github.com/Parskatt/RoMaV2)|
+|2026|ECCV|[LoMa: Local Feature Matching Revisited](https://arxiv.org/pdf/2604.04931)|[Project Page](https://www.davnords.com/loma)|
+|2026|ECCVW|[RoMa-Ω: What Feed-Forward 3D Models Know About Image Matching](https://arxiv.org/pdf/2609.09507)|[Code](https://github.com/davnords/RoMa-Omega)|
 |2026|arXiv|[Understanding and Optimizing Attention-Based Sparse Matching for Diverse Local Features](https://arxiv.org/pdf/2602.08430)||
 |2026|arXiv|[EpiMask: Leveraging Epipolar Distance Based Masks in Cross-Attention for Satellite Image Matching](https://arxiv.org/pdf/2603.21463)|[Code](https://github.com/rahuldeshmukh43/epimask)|
-|2026|arXiv|[LoMa: Local Feature Matching Revisited](https://arxiv.org/pdf/2604.04931)|[Project Page](https://www.davnords.com/loma)|
 |2026|arXiv|[Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency](https://arxiv.org/pdf/2604.06713)||
 |2026|arXiv|[SceneGlue: Scene-Aware Transformer for Feature Matching without Scene-Level Annotation](https://arxiv.org/pdf/2604.13941)|[Code](https://github.com/songlin-du/SceneGlue)|
 |2026|arXiv|[Match-Any-Events: Zero-Shot Motion-Robust Feature Matching Across Wide Baselines for Event Cameras](https://arxiv.org/pdf/2604.18744)|[Code](https://github.com/spikelab-jhu/Match-Any-Events)|
