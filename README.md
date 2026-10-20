@@ -81,6 +81,7 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2025|arXiv|[Good Keypoints for the Two-View Geometry Estimation Problem](https://arxiv.org/pdf/2503.18767)|[Code](https://github.com/KonstantinPakulev/BoNeSS-ST)|
 |2025|arXiv|[DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection](https://arxiv.org/pdf/2503.07347)|[Code](https://github.com/parskatt/dad)|
 |2026|CVPR|[From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection](https://arxiv.org/pdf/2602.20630)||
+|2026|NeurIPS|[Towards Complementary Keypoint Detection via Mixture of Detectors](https://arxiv.org/pdf/2610.16762)||
 |2026|3DV|[RaCo: Ranking and Covariance for Practical Learned Keypoints](https://arxiv.org/pdf/2602.15755)|[Code](https://github.com/cvg/RaCo)|
 |2026|3DV|[XRefine: Attention-Guided Keypoint Match Refinement](https://arxiv.org/pdf/2601.12530)|[Code](https://github.com/boschresearch/xrefine)|
 |2026|arXiv|[Misanthrope: A Privacy-Preserving Keypoint Detector](https://arxiv.org/pdf/2608.23012)|[Code](https://github.com/fratopa/misanthrope)|
