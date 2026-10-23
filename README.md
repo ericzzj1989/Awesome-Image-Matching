@@ -273,6 +273,8 @@ If you find some overlooked papers, please open issues or pull requests (recomme
 |2026|arXiv|[SGFormer: Structure-Guided Transformer for Robust Local Feature Matching](https://arxiv.org/pdf/2608.03423)||
 |2026|arXiv|[Semi-Dense Matching Uncertainty Is Not Just Local Confidence](https://arxiv.org/pdf/2608.08685)|[Code](https://github.com/khoavpt/Probabilistic-matching)|
 |2026|arXiv|[TartanMatch: Towards Universal Dense Correspondence Across Modalities](https://arxiv.org/pdf/2610.14513)|[Project Page](https://tartanmatch.github.io/)|
+|2026|arXiv|[MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model](https://arxiv.org/pdf/2610.31321)|[Project Page](https://kosmoresearch.github.io/MVLoMa/)|
+|2026|arXiv|[WovenAnchor Matcher: Specialized Intra- and Inter-Image Context Modeling for Feature Matching](https://arxiv.org/pdf/2610.30799)|[Code](https://github.com/mmaiLab/WovenAnchorMatcher)|
 
 
 ## Others
